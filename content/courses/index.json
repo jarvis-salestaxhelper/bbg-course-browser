@@ -1435,10 +1435,14 @@
     "slug": "conquering-impossible-goals",
     "name": "Conquering Impossible Goals",
     "lessonCount": 23,
-    "workbookCount": 0,
+    "workbookCount": 1,
     "videoCount": 19,
     "lessons": [],
-    "workbooks": [],
+    "workbooks": [
+      {
+        "filename": "Conquering Impossible Goals Workbook.pdf"
+      }
+    ],
     "videos": [
       {
         "filename": "6 Healthy Behaviors for Business Partners Who Are Married__jnmwqppjrt.mp4"
@@ -5065,7 +5069,7 @@
     "slug": "world-class-presentation-craft",
     "name": "World Class Presentation Craft",
     "lessonCount": 27,
-    "workbookCount": 3,
+    "workbookCount": 7,
     "videoCount": 25,
     "lessons": [
       {
@@ -5143,6 +5147,12 @@
     ],
     "workbooks": [
       {
+        "filename": "PRE-EVENT CALL SCRIPT.pdf"
+      },
+      {
+        "filename": "PROGRAM CUSTOMIZATION QUESTIONNAIRE.pdf"
+      },
+      {
         "filename": "Phase_1_Branding_World_Class_Presentation_Craft_Lesson_1Mess_ec5tz74zod6m.docx"
       },
       {
@@ -5150,6 +5160,12 @@
       },
       {
         "filename": "Phase_1_Branding_World_Class_Presentation_Craft_Lesson_3_Ed_dgeej95q59ut.docx"
+      },
+      {
+        "filename": "SAMPLE CLIENT PRESENTATION TEMPLATE WCPC.pdf"
+      },
+      {
+        "filename": "World Class Presentation Craft WORKBOOK.pdf"
       }
     ],
     "videos": [

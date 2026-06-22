@@ -84,7 +84,7 @@ for (const slug of courseSlugs) {
   const downloadsDir = path.join(courseSource, 'downloads');
   let workbookFiles = [];
   if (fs.existsSync(downloadsDir)) {
-    workbookFiles = fs.readdirSync(downloadsDir).filter(f => f.endsWith('.docx'));
+    workbookFiles = fs.readdirSync(downloadsDir).filter(f => f.endsWith('.docx') || f.endsWith('.pdf'));
   }
 
   // Count videos from videos/
