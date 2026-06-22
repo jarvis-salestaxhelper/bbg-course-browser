@@ -1,0 +1,5268 @@
+[
+  {
+    "slug": "8-figure-entrepreneur",
+    "name": "8-Figure Entrepreneur",
+    "lessonCount": 21,
+    "workbookCount": 6,
+    "videoCount": 18,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "8-Figure Entrepreneur: Introduction & Overview",
+        "file": "01-8-figure-entrepreneur-introduction-overview.md",
+        "slug": "01-8-figure-entrepreneur-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Business Valuation: Workbook Guided Training",
+        "file": "02-business-valuation-workbook-guided-training.md",
+        "slug": "02-business-valuation-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Business Valuation: Workbook Guided Training_2",
+        "file": "03-business-valuation-workbook-guided-training_2.md",
+        "slug": "03-business-valuation-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Finance (Part 1): Workbook Guided Training",
+        "file": "04-finance-part-1-workbook-guided-training.md",
+        "slug": "04-finance-part-1-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Finance (Part 1): Workbook Guided Training_2",
+        "file": "05-finance-part-1-workbook-guided-training_2.md",
+        "slug": "05-finance-part-1-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Finance (Part 2): Workbook Guided Training",
+        "file": "06-finance-part-2-workbook-guided-training.md",
+        "slug": "06-finance-part-2-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Finance (Part 2): Workbook Guided Training_2",
+        "file": "07-finance-part-2-workbook-guided-training_2.md",
+        "slug": "07-finance-part-2-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Finance (Part 2) Supplemental Training: Special Training: 15 Legal Strategies Entrepreneurs Can Use To Reduce Taxes",
+        "file": "08-finance-part-2-supplemental-training-special-training-15-leg.md",
+        "slug": "08-finance-part-2-supplemental-training-special-training-15-leg",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "Operations: Workbook Guided Training",
+        "file": "09-operations-workbook-guided-training.md",
+        "slug": "09-operations-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Operations: Workbook Guided Training_2",
+        "file": "10-operations-workbook-guided-training_2.md",
+        "slug": "10-operations-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Operations Supplemental Training: BIP Spotlight: Annual Planning With Cultivate Advisors",
+        "file": "11-operations-supplemental-training-bip-spotlight-annual-planni.md",
+        "slug": "11-operations-supplemental-training-bip-spotlight-annual-planni",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Human Resources: Workbook Guided Training",
+        "file": "12-human-resources-workbook-guided-training.md",
+        "slug": "12-human-resources-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "Human Resources: Workbook Guided Training_2",
+        "file": "13-human-resources-workbook-guided-training_2.md",
+        "slug": "13-human-resources-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Customer Service: Workbook Guided Training",
+        "file": "14-customer-service-workbook-guided-training.md",
+        "slug": "14-customer-service-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Customer Service: Workbook Guided Training_2",
+        "file": "15-customer-service-workbook-guided-training_2.md",
+        "slug": "15-customer-service-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "Fractal Math and the Fastest Way to Scale Your Revenue",
+        "file": "16-fractal-math-and-the-fastest-way-to-scale-your-revenue.md",
+        "slug": "16-fractal-math-and-the-fastest-way-to-scale-your-revenue",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "Event Hot Seat (Business Valuation)",
+        "file": "17-event-hot-seat-business-valuation.md",
+        "slug": "17-event-hot-seat-business-valuation",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "Event Hot Seat (Finance)",
+        "file": "18-event-hot-seat-finance.md",
+        "slug": "18-event-hot-seat-finance",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 19,
+        "title": "Event Hot Seat (Finance_2)",
+        "file": "19-event-hot-seat-finance_2.md",
+        "slug": "19-event-hot-seat-finance_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 20,
+        "title": "8-Figure Entrepreneur Resources",
+        "file": "20-8-figure-entrepreneur-resources.md",
+        "slug": "20-8-figure-entrepreneur-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_4_Scaling_8_Figure_Entrepreneur_Lesson_1_Business_Valu_2o98mwgklazc.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_8_Figure_Entrepreneur_Lesson_2_Finance_Part__ko3yr5xwjvns.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_8_Figure_Entrepreneur_Lesson_3_Finance_Part_fh4xf3t5abdm.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_8_Figure_Entrepreneur_Lesson_4_Operations_Wo_4wjhgkoa417f.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_8_Figure_Entrepreneur_Lesson_5_Human_Resourc_va1nho875a01.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_8_Figure_Entrepreneur_Lesson_6_Customer_Serv_khbnqyldz1wu.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "8-Figure Entrepreneur Introduction Overview__kkctq7yevq.mp4"
+      },
+      {
+        "filename": "Business Valuation Workbook Guided Training_2__9187d8qdlb.mp4"
+      },
+      {
+        "filename": "Business Valuation Workbook Guided Training__notes22m3k.mp4"
+      },
+      {
+        "filename": "Customer Service Workbook Guided Training_2__rv83ywg14i.mp4"
+      },
+      {
+        "filename": "Customer Service Workbook Guided Training__hlaiubcbnj.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Business Valuation__zrhm89v03a.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Finance_2__esssrvreqe.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Finance__2mvorso5kz.mp4"
+      },
+      {
+        "filename": "Finance Part 1 Workbook Guided Training_2__amw7rd9z9p.mp4"
+      },
+      {
+        "filename": "Finance Part 1 Workbook Guided Training__qlms5cv2eb.mp4"
+      },
+      {
+        "filename": "Finance Part 2 Workbook Guided Training_2__t4xrvcpcjj.mp4"
+      },
+      {
+        "filename": "Finance Part 2 Workbook Guided Training__0df4qwrfk9.mp4"
+      },
+      {
+        "filename": "Fractal Math and the Fastest Way to Scale Your Revenue__3vn31ft2nr.mp4"
+      },
+      {
+        "filename": "Human Resources Workbook Guided Training_2__za5yqffjlx.mp4"
+      },
+      {
+        "filename": "Human Resources Workbook Guided Training__7ct05wiyn9.mp4"
+      },
+      {
+        "filename": "Operations Supplemental Training BIP Spotlight Annual Planning With Cultivate Advisors__col76jm5xx.mp4"
+      },
+      {
+        "filename": "Operations Workbook Guided Training_2__ph88ndmiph.mp4"
+      },
+      {
+        "filename": "Operations Workbook Guided Training__z3mvl80g60.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "bestseller-launch-plan",
+    "name": "Bestseller Launch Plan",
+    "lessonCount": 19,
+    "workbookCount": 6,
+    "videoCount": 17,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Bestseller Launch Plan: Introduction & Overview",
+        "file": "01-bestseller-launch-plan-introduction-overview.md",
+        "slug": "01-bestseller-launch-plan-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Book Proposal: Workbook Guided Training",
+        "file": "02-book-proposal-workbook-guided-training.md",
+        "slug": "02-book-proposal-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Word of Mouth Launch: Workbook Guided Training",
+        "file": "03-word-of-mouth-launch-workbook-guided-training.md",
+        "slug": "03-word-of-mouth-launch-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Pre-Launch: Workbook Guided Training",
+        "file": "04-pre-launch-workbook-guided-training.md",
+        "slug": "04-pre-launch-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Pre-Launch Supplemental Training: Advanced Pre-Launch Strategies",
+        "file": "05-pre-launch-supplemental-training-advanced-pre-launch-strateg.md",
+        "slug": "05-pre-launch-supplemental-training-advanced-pre-launch-strateg",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Direct Launch: Workbook Guided Training",
+        "file": "06-direct-launch-workbook-guided-training.md",
+        "slug": "06-direct-launch-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Indirect Launch: Workbook Guided Training",
+        "file": "07-indirect-launch-workbook-guided-training.md",
+        "slug": "07-indirect-launch-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Post-Launch: Workbook Guided Training",
+        "file": "08-post-launch-workbook-guided-training.md",
+        "slug": "08-post-launch-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "When Is The Right Time For a Bestseller Launch Plan?",
+        "file": "09-when-is-the-right-time-for-a-bestseller-launch-plan.md",
+        "slug": "09-when-is-the-right-time-for-a-bestseller-launch-plan",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Event Hot Seat (Book Proposal)",
+        "file": "10-event-hot-seat-book-proposal.md",
+        "slug": "10-event-hot-seat-book-proposal",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Event Hot Seat (Word of Mouth Launch)",
+        "file": "11-event-hot-seat-word-of-mouth-launch.md",
+        "slug": "11-event-hot-seat-word-of-mouth-launch",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Event Hot Seat (Word of Mouth Launch_2)",
+        "file": "12-event-hot-seat-word-of-mouth-launch_2.md",
+        "slug": "12-event-hot-seat-word-of-mouth-launch_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "Event Hot Seat (Pre-Launch)",
+        "file": "13-event-hot-seat-pre-launch.md",
+        "slug": "13-event-hot-seat-pre-launch",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Event Hot Seat (Direct Launch)",
+        "file": "14-event-hot-seat-direct-launch.md",
+        "slug": "14-event-hot-seat-direct-launch",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Event Hot Seat (Indirect Launch)",
+        "file": "15-event-hot-seat-indirect-launch.md",
+        "slug": "15-event-hot-seat-indirect-launch",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "Event Hot Seat (Indirect Launch_2)",
+        "file": "16-event-hot-seat-indirect-launch_2.md",
+        "slug": "16-event-hot-seat-indirect-launch_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "Event Hot Seat (Post-Launch)",
+        "file": "17-event-hot-seat-post-launch.md",
+        "slug": "17-event-hot-seat-post-launch",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "Bestseller Launch Plan Resources",
+        "file": "18-bestseller-launch-plan-resources.md",
+        "slug": "18-bestseller-launch-plan-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_3_Selling_Bestseller_Launch_Plan_Lesson_1_Book_Proposa_c9etqvccx69t.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Bestseller_Launch_Plan_Lesson_2_Word_of_Mout_dzomda25ketq.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Bestseller_Launch_Plan_Lesson_3_Pre-Launch_W_8jccik53aah8.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Bestseller_Launch_Plan_Lesson_4_Direct_Launc_1k7sxn0a2hju.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Bestseller_Launch_Plan_Lesson_5_Indirect_Lau_px2oi3o2c6v8.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Bestseller_Launch_Plan_Lesson_6_Post-Launch__lp5uu3fuar0n.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Bestseller Launch Plan Introduction Overview__3bzcd4r70k.mp4"
+      },
+      {
+        "filename": "Book Proposal Workbook Guided Training__0y6hisnn5e.mp4"
+      },
+      {
+        "filename": "Direct Launch Workbook Guided Training__omu2vs4v97.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Book Proposal__p1yx2lruy7.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Direct Launch__x4q627rmyk.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Indirect Launch_2__bu4y4a9zmn.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Indirect Launch__lioixwwt2r.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Post-Launch__b118bgkcfo.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Pre-Launch__91gbx695hm.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Word of Mouth Launch_2__ufa6l8l1gd.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Word of Mouth Launch__yku86fg31s.mp4"
+      },
+      {
+        "filename": "Indirect Launch Workbook Guided Training__0j6o2smu6y.mp4"
+      },
+      {
+        "filename": "Post-Launch Workbook Guided Training__ueglj0l527.mp4"
+      },
+      {
+        "filename": "Pre-Launch Supplemental Training Advanced Pre-Launch Strategies__1isgme4fvh.mp4"
+      },
+      {
+        "filename": "Pre-Launch Workbook Guided Training__wl5ff9q57z.mp4"
+      },
+      {
+        "filename": "When Is The Right Time For a Bestseller Launch Plan__om7vwopg7u.mp4"
+      },
+      {
+        "filename": "Word of Mouth Launch Workbook Guided Training__bjtmknqlur.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "building-your-revenue-engine",
+    "name": "Building Your Revenue Engine",
+    "lessonCount": 52,
+    "workbookCount": 8,
+    "videoCount": 49,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Building Your Revenue Engine: Introduction",
+        "file": "01-building-your-revenue-engine-introduction.md",
+        "slug": "01-building-your-revenue-engine-introduction",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Building Your Revenue Engine Overview",
+        "file": "02-building-your-revenue-engine-overview.md",
+        "slug": "02-building-your-revenue-engine-overview",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Offer Structure: Workbook Guided Training",
+        "file": "03-offer-structure-workbook-guided-training.md",
+        "slug": "03-offer-structure-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Offer Structure: Workbook Guided Training_2",
+        "file": "04-offer-structure-workbook-guided-training_2.md",
+        "slug": "04-offer-structure-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Copywriting: Workbook Guided Training",
+        "file": "05-copywriting-workbook-guided-training.md",
+        "slug": "05-copywriting-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Copywriting Supplemental Training: The 15Ps of Copywriting_Part 1",
+        "file": "06-copywriting-supplemental-training-the-15ps-of-copywriting_pa.md",
+        "slug": "06-copywriting-supplemental-training-the-15ps-of-copywriting_pa",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Copywriting Supplemental Training: The 15Ps of Copywriting_Part 2",
+        "file": "07-copywriting-supplemental-training-the-15ps-of-copywriting_pa.md",
+        "slug": "07-copywriting-supplemental-training-the-15ps-of-copywriting_pa",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Copywriting Supplemental Training: The 15Ps of Copywriting_Part 3",
+        "file": "08-copywriting-supplemental-training-the-15ps-of-copywriting_pa.md",
+        "slug": "08-copywriting-supplemental-training-the-15ps-of-copywriting_pa",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "Copywriting Supplemental Training: The 15Ps of Copywriting_Part 4",
+        "file": "09-copywriting-supplemental-training-the-15ps-of-copywriting_pa.md",
+        "slug": "09-copywriting-supplemental-training-the-15ps-of-copywriting_pa",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Copywriting Supplemental Training: The 15Ps of Copywriting_QnA_How Not to Over Promise",
+        "file": "10-copywriting-supplemental-training-the-15ps-of-copywriting_qn.md",
+        "slug": "10-copywriting-supplemental-training-the-15ps-of-copywriting_qn",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Funnels: Workbook Guided Training",
+        "file": "11-funnels-workbook-guided-training.md",
+        "slug": "11-funnels-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Funnels: Workbook Guided Training_2",
+        "file": "12-funnels-workbook-guided-training_2.md",
+        "slug": "12-funnels-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "Funnels: Workbook Guided Training_3",
+        "file": "13-funnels-workbook-guided-training_3.md",
+        "slug": "13-funnels-workbook-guided-training_3",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Funnels Supplemental Training: How to Create a MailChimp Opt-in Form",
+        "file": "14-funnels-supplemental-training-how-to-create-a-mailchimp-opt-.md",
+        "slug": "14-funnels-supplemental-training-how-to-create-a-mailchimp-opt-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Funnels Supplemental Training: Free Call Webinar Funnel",
+        "file": "15-funnels-supplemental-training-free-call-webinar-funnel.md",
+        "slug": "15-funnels-supplemental-training-free-call-webinar-funnel",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "Funnels Supplemental Training: Webinar Funnel Email Sequence Copy",
+        "file": "16-funnels-supplemental-training-webinar-funnel-email-sequence-.md",
+        "slug": "16-funnels-supplemental-training-webinar-funnel-email-sequence-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "Website & Blog: Workbook Guided Training",
+        "file": "17-website-blog-workbook-guided-training.md",
+        "slug": "17-website-blog-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "Website & Blog Supplemental Training: Creating a Visual Identity For Your Brand",
+        "file": "18-website-blog-supplemental-training-creating-a-visual-identit.md",
+        "slug": "18-website-blog-supplemental-training-creating-a-visual-identit",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 19,
+        "title": "Website & Blog Supplemental Training: Website Copy and TED Talks",
+        "file": "19-website-blog-supplemental-training-website-copy-and-ted-talk.md",
+        "slug": "19-website-blog-supplemental-training-website-copy-and-ted-talk",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 20,
+        "title": "Website & Blog Supplemental Training: How to Apply the 15Ps to Your Website",
+        "file": "20-website-blog-supplemental-training-how-to-apply-the-15ps-to-.md",
+        "slug": "20-website-blog-supplemental-training-how-to-apply-the-15ps-to-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 21,
+        "title": "Content Diamond: Workbook Guided Training",
+        "file": "21-content-diamond-workbook-guided-training.md",
+        "slug": "21-content-diamond-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 22,
+        "title": "Content Diamond Supplemental Training: How to Create a RSS Feed For Your Blog Using MailChimp",
+        "file": "22-content-diamond-supplemental-training-how-to-create-a-rss-fe.md",
+        "slug": "22-content-diamond-supplemental-training-how-to-create-a-rss-fe",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 23,
+        "title": "Content Diamond Supplemental Training: Content Repurposing on a Budget",
+        "file": "23-content-diamond-supplemental-training-content-repurposing-on.md",
+        "slug": "23-content-diamond-supplemental-training-content-repurposing-on",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 24,
+        "title": "Content Diamond Supplemental Training: Repurposing Content for Social Media_Miniseries_Part 1",
+        "file": "24-content-diamond-supplemental-training-repurposing-content-fo.md",
+        "slug": "24-content-diamond-supplemental-training-repurposing-content-fo",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 25,
+        "title": "Content Diamond Supplemental Training: Repurposing Content for Social Media_Miniseries_Part 2",
+        "file": "25-content-diamond-supplemental-training-repurposing-content-fo.md",
+        "slug": "25-content-diamond-supplemental-training-repurposing-content-fo",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 26,
+        "title": "Content Diamond Supplemental Training: Repurposing Content for Social Media_Miniseries_Part 3",
+        "file": "26-content-diamond-supplemental-training-repurposing-content-fo.md",
+        "slug": "26-content-diamond-supplemental-training-repurposing-content-fo",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 27,
+        "title": "Content Diamond Supplemental Training: Repurposing Content for Social Media_Miniseries_Part 4",
+        "file": "27-content-diamond-supplemental-training-repurposing-content-fo.md",
+        "slug": "27-content-diamond-supplemental-training-repurposing-content-fo",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 28,
+        "title": "Content Diamond Supplemental Training: Repurposing Content for Social Media_Miniseries_Part 5",
+        "file": "28-content-diamond-supplemental-training-repurposing-content-fo.md",
+        "slug": "28-content-diamond-supplemental-training-repurposing-content-fo",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 29,
+        "title": "Content Diamond Supplemental Training: Content Repurposing_Miniseries_Q&A_Part 1",
+        "file": "29-content-diamond-supplemental-training-content-repurposing_mi.md",
+        "slug": "29-content-diamond-supplemental-training-content-repurposing_mi",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 30,
+        "title": "Content Diamond Supplemental Training: Content Repurposing_Miniseries_Q&A_Part 2",
+        "file": "30-content-diamond-supplemental-training-content-repurposing_mi.md",
+        "slug": "30-content-diamond-supplemental-training-content-repurposing_mi",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 31,
+        "title": "Content Diamond Supplemental Training: Content Repurposing_Miniseries_Q&A_Part 3",
+        "file": "31-content-diamond-supplemental-training-content-repurposing_mi.md",
+        "slug": "31-content-diamond-supplemental-training-content-repurposing_mi",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 32,
+        "title": "Content Diamond Supplemental Training: Learning Advanced YouTube Strategies With Evan Carmichael_Miniseries_Part 1",
+        "file": "32-content-diamond-supplemental-training-learning-advanced-yout.md",
+        "slug": "32-content-diamond-supplemental-training-learning-advanced-yout",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 33,
+        "title": "Content Diamond Supplemental Training: Learning Advanced YouTube Strategies With Evan Carmichael_Miniseries_Part 2",
+        "file": "33-content-diamond-supplemental-training-learning-advanced-yout.md",
+        "slug": "33-content-diamond-supplemental-training-learning-advanced-yout",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 34,
+        "title": "Content Diamond Supplemental Training: 12 Secret Content Hook Strategies to Help You Go Viral and Become More Famous Tha",
+        "file": "34-content-diamond-supplemental-training-12-secret-content-hook.md",
+        "slug": "34-content-diamond-supplemental-training-12-secret-content-hook",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 35,
+        "title": "Free Traffic Sources: Workbook Guided Training",
+        "file": "35-free-traffic-sources-workbook-guided-training.md",
+        "slug": "35-free-traffic-sources-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 36,
+        "title": "Free Traffic Sources Supplemental Training: The 7 Pillars of Promotion",
+        "file": "36-free-traffic-sources-supplemental-training-the-7-pillars-of-.md",
+        "slug": "36-free-traffic-sources-supplemental-training-the-7-pillars-of-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 37,
+        "title": "Free Traffic Sources Supplemental Training: How to Create Your Media Flyer",
+        "file": "37-free-traffic-sources-supplemental-training-how-to-create-you.md",
+        "slug": "37-free-traffic-sources-supplemental-training-how-to-create-you",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 38,
+        "title": "Free Traffic Sources Supplemental Training: 11 Ways to Grow Your Email List",
+        "file": "38-free-traffic-sources-supplemental-training-11-ways-to-grow-y.md",
+        "slug": "38-free-traffic-sources-supplemental-training-11-ways-to-grow-y",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 39,
+        "title": "Free Traffic Sources Supplemental Training: Tactics to Double Your Social Media Following (Part 1 & 2)",
+        "file": "39-free-traffic-sources-supplemental-training-tactics-to-double.md",
+        "slug": "39-free-traffic-sources-supplemental-training-tactics-to-double",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 40,
+        "title": "Free Traffic Sources Supplemental Training: 30 Step Launch List_Miniseries_Part 1 & 2",
+        "file": "40-free-traffic-sources-supplemental-training-30-step-launch-li.md",
+        "slug": "40-free-traffic-sources-supplemental-training-30-step-launch-li",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 41,
+        "title": "11 Ways to Grow Your Email List",
+        "file": "41-11-ways-to-grow-your-email-list.md",
+        "slug": "41-11-ways-to-grow-your-email-list",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 42,
+        "title": "5 Part Audience Growth Acceleration Plan",
+        "file": "42-5-part-audience-growth-acceleration-plan.md",
+        "slug": "42-5-part-audience-growth-acceleration-plan",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 43,
+        "title": "How Soon Do I Need a Website?",
+        "file": "43-how-soon-do-i-need-a-website.md",
+        "slug": "43-how-soon-do-i-need-a-website",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 44,
+        "title": "Event Hot Seat (Offer Structure)",
+        "file": "44-event-hot-seat-offer-structure.md",
+        "slug": "44-event-hot-seat-offer-structure",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 45,
+        "title": "Event Hot Seat (Copywriting)",
+        "file": "45-event-hot-seat-copywriting.md",
+        "slug": "45-event-hot-seat-copywriting",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 46,
+        "title": "Event Hot Seat (Copywriting_2)",
+        "file": "46-event-hot-seat-copywriting_2.md",
+        "slug": "46-event-hot-seat-copywriting_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 47,
+        "title": "Event Hot Seat (Funnels)",
+        "file": "47-event-hot-seat-funnels.md",
+        "slug": "47-event-hot-seat-funnels",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 48,
+        "title": "Event Hot Seat (Website & Blog)",
+        "file": "48-event-hot-seat-website-blog.md",
+        "slug": "48-event-hot-seat-website-blog",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 49,
+        "title": "Event Hot Seat (Content Diamond)",
+        "file": "49-event-hot-seat-content-diamond.md",
+        "slug": "49-event-hot-seat-content-diamond",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 50,
+        "title": "Event Hot Seat (Free Traffic Sources)",
+        "file": "50-event-hot-seat-free-traffic-sources.md",
+        "slug": "50-event-hot-seat-free-traffic-sources",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 51,
+        "title": "Building Your Revenue Engine Resources",
+        "file": "51-building-your-revenue-engine-resources.md",
+        "slug": "51-building-your-revenue-engine-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_2_Marketing_Building_Your_Revenue_EngineLesson_4_Websi_s8y5j90bqq38.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Building_Your_Revenue_Engine_Lesson_0_Buil_j6dc0y1okkgs.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Building_Your_Revenue_Engine_Lesson_1_Offe_rsy3iq1k9t6l.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Building_Your_Revenue_Engine_Lesson_2_Copy_20j45ddfs8gl.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Building_Your_Revenue_Engine_Lesson_2_Copy_usrbyczojax3.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Building_Your_Revenue_Engine_Lesson_3_Funn_8tp3axs13ohu.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Building_Your_Revenue_Engine_Lesson_5_Cont_rjkwc8aoessk.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Building_Your_Revenue_Engine_Lesson_6_Free_6q5x9nc0ywou.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "11 Ways to Grow Your Email List__gi1wqwnkny.mp4"
+      },
+      {
+        "filename": "5 Part Audience Growth Acceleration Plan__iocev9nnf1.mp4"
+      },
+      {
+        "filename": "Building Your Revenue Engine Introduction__ou3k9481tl.mp4"
+      },
+      {
+        "filename": "Building Your Revenue Engine Overview__iojn9nncnr.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training 12 Secret Content Hook Strategies to Help You Go Vir__vl4e4301ik.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Content Repurposing on a Budget__0awsp67yz2.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Content Repurposing_Miniseries_QA_Part 1__6zcsxmxr2k.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Content Repurposing_Miniseries_QA_Part 2__9xjn9vpyie.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Content Repurposing_Miniseries_QA_Part 3__r9866glo8p.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training How to Create a RSS Feed For Your Blog Using MailChi__xlckpm24v1.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Learning Advanced YouTube Strategies With Evan Carmi__9e3jk7iy8d.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Learning Advanced YouTube Strategies With Evan Carmi__fls9jzvtbo.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Repurposing Content for Social Media_Miniseries_Part__bgrdt9ayhj.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Repurposing Content for Social Media_Miniseries_Part__emovxyiqnr.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Repurposing Content for Social Media_Miniseries_Part__fmtsjhhf9g.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Repurposing Content for Social Media_Miniseries_Part__fyrqxfceze.mp4"
+      },
+      {
+        "filename": "Content Diamond Supplemental Training Repurposing Content for Social Media_Miniseries_Part__nrg2absh0b.mp4"
+      },
+      {
+        "filename": "Content Diamond Workbook Guided Training__7occuu24dt.mp4"
+      },
+      {
+        "filename": "Copywriting Supplemental Training The 15Ps of Copywriting_Part 1__ornd3oogjp.mp4"
+      },
+      {
+        "filename": "Copywriting Supplemental Training The 15Ps of Copywriting_Part 2__8hunpir559.mp4"
+      },
+      {
+        "filename": "Copywriting Supplemental Training The 15Ps of Copywriting_Part 3__myr41xfhfh.mp4"
+      },
+      {
+        "filename": "Copywriting Supplemental Training The 15Ps of Copywriting_Part 4__4ysn3c8svo.mp4"
+      },
+      {
+        "filename": "Copywriting Supplemental Training The 15Ps of Copywriting_QnA_How Not to Over Promise__u9v3sz3bkp.mp4"
+      },
+      {
+        "filename": "Copywriting Workbook Guided Training__1v17nh5ncq.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Content Diamond__h86qfuv3b8.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Copywriting_2__fafiv37lvc.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Copywriting__r2xfqravw0.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Free Traffic Sources__21arcuz2il.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Funnels__ty04l8n1j2.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Offer Structure__u8w720a2wn.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Website Blog__09bzyg1ade.mp4"
+      },
+      {
+        "filename": "Free Traffic Sources Supplemental Training 30 Step Launch List_Miniseries_Part 1 2__50sgeyzd0w.mp4"
+      },
+      {
+        "filename": "Free Traffic Sources Supplemental Training How to Create Your Media Flyer__sda9fop5w6.mp4"
+      },
+      {
+        "filename": "Free Traffic Sources Supplemental Training Tactics to Double Your Social Media Following P__93vvorlbp8.mp4"
+      },
+      {
+        "filename": "Free Traffic Sources Supplemental Training The 7 Pillars of Promotion__c3mfsfxwhh.mp4"
+      },
+      {
+        "filename": "Free Traffic Sources Workbook Guided Training__ka2g4r5hbj.mp4"
+      },
+      {
+        "filename": "Funnels Supplemental Training Free Call Webinar Funnel__wf2jltbdzp.mp4"
+      },
+      {
+        "filename": "Funnels Supplemental Training How to Create a MailChimp Opt-in Form__fj3c93f0ys.mp4"
+      },
+      {
+        "filename": "Funnels Supplemental Training Webinar Funnel Email Sequence Copy__0b3wdbrjj4.mp4"
+      },
+      {
+        "filename": "Funnels Workbook Guided Training_2__fhi2j5ojtt.mp4"
+      },
+      {
+        "filename": "Funnels Workbook Guided Training_3__qag1lbmk51.mp4"
+      },
+      {
+        "filename": "Funnels Workbook Guided Training__h4t1uvjmsk.mp4"
+      },
+      {
+        "filename": "How Soon Do I Need a Website__0ciz9s322k.mp4"
+      },
+      {
+        "filename": "Offer Structure Workbook Guided Training_2__vjo7tz6xwd.mp4"
+      },
+      {
+        "filename": "Offer Structure Workbook Guided Training__axpp7dbkgi.mp4"
+      },
+      {
+        "filename": "Website Blog Supplemental Training Creating a Visual Identity For Your Brand__hpzljno4dz.mp4"
+      },
+      {
+        "filename": "Website Blog Supplemental Training How to Apply the 15Ps to Your Website__eg2wx8rib5.mp4"
+      },
+      {
+        "filename": "Website Blog Supplemental Training Website Copy and TED Talks__s3en6ejtgx.mp4"
+      },
+      {
+        "filename": "Website Blog Workbook Guided Training__e22b0td6hz.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "captivating-content",
+    "name": "Captivating Content",
+    "lessonCount": 32,
+    "workbookCount": 6,
+    "videoCount": 30,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Captivating Content: Introduction & Overview",
+        "file": "01-captivating-content-introduction-overview.md",
+        "slug": "01-captivating-content-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Clear Avatar & Central Message: Workbook Guided Training",
+        "file": "02-clear-avatar-central-message-workbook-guided-training.md",
+        "slug": "02-clear-avatar-central-message-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Logical Structure: Workbook Guided Training",
+        "file": "03-logical-structure-workbook-guided-training.md",
+        "slug": "03-logical-structure-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Logical Structure Supplemental Training: Outlining Your Body of Work",
+        "file": "04-logical-structure-supplemental-training-outlining-your-body-.md",
+        "slug": "04-logical-structure-supplemental-training-outlining-your-body-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Logical Structure Supplemental Training: Modular Content Method",
+        "file": "05-logical-structure-supplemental-training-modular-content-meth.md",
+        "slug": "05-logical-structure-supplemental-training-modular-content-meth",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Logical Structure Supplemental Training: Creating And Polishing Your Pillar Points",
+        "file": "06-logical-structure-supplemental-training-creating-and-polishi.md",
+        "slug": "06-logical-structure-supplemental-training-creating-and-polishi",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Logical Structure Supplemental Training: Polishing Your Content Using the Pillar Point Formulas",
+        "file": "07-logical-structure-supplemental-training-polishing-your-conte.md",
+        "slug": "07-logical-structure-supplemental-training-polishing-your-conte",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Logical Structure Supplemental Training: The #1 Strategy for Memorizing a Speech",
+        "file": "08-logical-structure-supplemental-training-the-1-strategy-for-m.md",
+        "slug": "08-logical-structure-supplemental-training-the-1-strategy-for-m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "Compelling Stories: Workbook Guided Training",
+        "file": "09-compelling-stories-workbook-guided-training.md",
+        "slug": "09-compelling-stories-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Compelling Stories Supplemental Training: Creating Compelling Stories",
+        "file": "10-compelling-stories-supplemental-training-creating-compelling.md",
+        "slug": "10-compelling-stories-supplemental-training-creating-compelling",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Thought Leadership Frameworks: Workbook Guided Training",
+        "file": "11-thought-leadership-frameworks-workbook-guided-training.md",
+        "slug": "11-thought-leadership-frameworks-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Thought Leadership Frameworks Supplemental Training: How to Create Original Thought Leadership Via Frameworks",
+        "file": "12-thought-leadership-frameworks-supplemental-training-how-to-c.md",
+        "slug": "12-thought-leadership-frameworks-supplemental-training-how-to-c",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "Thought Leadership Frameworks Supplemental Training: Creating Original IP and Thought Leadership Frameworks",
+        "file": "13-thought-leadership-frameworks-supplemental-training-creating.md",
+        "slug": "13-thought-leadership-frameworks-supplemental-training-creating",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Behavior Drivers: Workbook Guided Training",
+        "file": "14-behavior-drivers-workbook-guided-training.md",
+        "slug": "14-behavior-drivers-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Behavior Drivers Supplemental Training: The Key Ideas That Drive Behavior and Exercises That Engage",
+        "file": "15-behavior-drivers-supplemental-training-the-key-ideas-that-dr.md",
+        "slug": "15-behavior-drivers-supplemental-training-the-key-ideas-that-dr",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "Behavior Drivers Supplemental Training: Creating Behavior Drivers And Essential Exercises",
+        "file": "16-behavior-drivers-supplemental-training-creating-behavior-dri.md",
+        "slug": "16-behavior-drivers-supplemental-training-creating-behavior-dri",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "Irresistible Titles: Workbook Guided Training",
+        "file": "17-irresistible-titles-workbook-guided-training.md",
+        "slug": "17-irresistible-titles-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "How to Cultivate a Bestselling Author's Mindset",
+        "file": "18-how-to-cultivate-a-bestselling-authors-mindset.md",
+        "slug": "18-how-to-cultivate-a-bestselling-authors-mindset",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 19,
+        "title": "How to Go From a BPS to a Finished Manuscript",
+        "file": "19-how-to-go-from-a-bps-to-a-finished-manuscript.md",
+        "slug": "19-how-to-go-from-a-bps-to-a-finished-manuscript",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 20,
+        "title": "What Should My First Course Be Based On?",
+        "file": "20-what-should-my-first-course-be-based-on.md",
+        "slug": "20-what-should-my-first-course-be-based-on",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 21,
+        "title": "How Do You Keep Fresh Content Ideas Coming?",
+        "file": "21-how-do-you-keep-fresh-content-ideas-coming.md",
+        "slug": "21-how-do-you-keep-fresh-content-ideas-coming",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 22,
+        "title": "How to Use ChatGPT and Other Shortcuts to Write Articles",
+        "file": "22-how-to-use-chatgpt-and-other-shortcuts-to-write-articles.md",
+        "slug": "22-how-to-use-chatgpt-and-other-shortcuts-to-write-articles",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 23,
+        "title": "Event Hot Seat (Logical Structure)",
+        "file": "23-event-hot-seat-logical-structure.md",
+        "slug": "23-event-hot-seat-logical-structure",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 24,
+        "title": "Event Hot Seat (Logical Structure_2)",
+        "file": "24-event-hot-seat-logical-structure_2.md",
+        "slug": "24-event-hot-seat-logical-structure_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 25,
+        "title": "Event Hot Seat (Compelling Stories)",
+        "file": "25-event-hot-seat-compelling-stories.md",
+        "slug": "25-event-hot-seat-compelling-stories",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 26,
+        "title": "Event Hot Seat (Thought Leadership Frameworks)",
+        "file": "26-event-hot-seat-thought-leadership-frameworks.md",
+        "slug": "26-event-hot-seat-thought-leadership-frameworks",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 27,
+        "title": "Event Hot Seat (Behavior Drivers)",
+        "file": "27-event-hot-seat-behavior-drivers.md",
+        "slug": "27-event-hot-seat-behavior-drivers",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 28,
+        "title": "Event Hot Seat (Behavior Drivers_2)",
+        "file": "28-event-hot-seat-behavior-drivers_2.md",
+        "slug": "28-event-hot-seat-behavior-drivers_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 29,
+        "title": "Event Hot Seat (Behavior Drivers_3)",
+        "file": "29-event-hot-seat-behavior-drivers_3.md",
+        "slug": "29-event-hot-seat-behavior-drivers_3",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 30,
+        "title": "Event Hot Seat (Irresistible Titles)",
+        "file": "30-event-hot-seat-irresistible-titles.md",
+        "slug": "30-event-hot-seat-irresistible-titles",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 31,
+        "title": "Captivating Content Resources",
+        "file": "31-captivating-content-resources.md",
+        "slug": "31-captivating-content-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_1_Branding_Captivating_Content_Lesson_1_Clear_Avatar_a_tkd727ceap7g.docx"
+      },
+      {
+        "filename": "Phase_1_Branding_Captivating_Content_Lesson_4_Thought_Leader_2luysdy3q1ps.docx"
+      },
+      {
+        "filename": "Phase_1_Branding_Captivating_Content_Lesson_5_Behavior_Drive_s0844n6vludv.docx"
+      },
+      {
+        "filename": "Phase_1_Branding_Captivating_Content_Lesson_6_Irresistible_T_rh05yfj7se4j.docx"
+      },
+      {
+        "filename": "Transcript_Captivating_Content_Compelling_Stories_Workbook_G_n1ltzik07d0t.docx"
+      },
+      {
+        "filename": "Transcript_Captivating_Content_Logical_Structure_Workbook_Gu_68n8590snjn6.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Behavior Drivers Supplemental Training Creating Behavior Drivers And Essential Exercises__81b4hr0y61.mp4"
+      },
+      {
+        "filename": "Behavior Drivers Supplemental Training The Key Ideas That Drive Behavior and Exercises Tha__lycck0n214.mp4"
+      },
+      {
+        "filename": "Behavior Drivers Workbook Guided Training__58brok1l14.mp4"
+      },
+      {
+        "filename": "Captivating Content Introduction Overview__xqs43hkfgs.mp4"
+      },
+      {
+        "filename": "Clear Avatar Central Message Workbook Guided Training__vgi2cp95lr.mp4"
+      },
+      {
+        "filename": "Compelling Stories Supplemental Training Creating Compelling Stories__fr05a0p9x4.mp4"
+      },
+      {
+        "filename": "Compelling Stories Workbook Guided Training__mh1jod8otp.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Behavior Drivers_2__a2ocowgfnm.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Behavior Drivers_3__0zld13dnky.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Behavior Drivers__4dxtsiszbt.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Compelling Stories__ezdqs6jfz9.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Irresistible Titles__08tgv01o48.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Logical Structure_2__doq77jwdw9.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Logical Structure__gwqzc337px.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Thought Leadership Frameworks__4oz9uwin5i.mp4"
+      },
+      {
+        "filename": "How Do You Keep Fresh Content Ideas Coming__7zsl5bvjk0.mp4"
+      },
+      {
+        "filename": "How to Cultivate a Bestselling Authors Mindset__585pkiw2tp.mp4"
+      },
+      {
+        "filename": "How to Go From a BPS to a Finished Manuscript__5ps8si0x52.mp4"
+      },
+      {
+        "filename": "How to Use ChatGPT and Other Shortcuts to Write Articles__wlwae89uol.mp4"
+      },
+      {
+        "filename": "Irresistible Titles Workbook Guided Training__2wrin5jn04.mp4"
+      },
+      {
+        "filename": "Logical Structure Supplemental Training Creating And Polishing Your Pillar Points__wl7hiju1ng.mp4"
+      },
+      {
+        "filename": "Logical Structure Supplemental Training Modular Content Method__fsmhkmyfop.mp4"
+      },
+      {
+        "filename": "Logical Structure Supplemental Training Outlining Your Body of Work__lresvawx4v.mp4"
+      },
+      {
+        "filename": "Logical Structure Supplemental Training Polishing Your Content Using the Pillar Point Form__hm5101inp7.mp4"
+      },
+      {
+        "filename": "Logical Structure Supplemental Training The 1 Strategy for Memorizing a Speech__imtqc2koi3.mp4"
+      },
+      {
+        "filename": "Logical Structure Workbook Guided Training__fge6rhclmb.mp4"
+      },
+      {
+        "filename": "Thought Leadership Frameworks Supplemental Training Creating Original IP and Thought Leade__g75ug43t6t.mp4"
+      },
+      {
+        "filename": "Thought Leadership Frameworks Supplemental Training How to Create Original Thought Leaders__lphlwyaafx.mp4"
+      },
+      {
+        "filename": "Thought Leadership Frameworks Workbook Guided Training__5q224jsx9h.mp4"
+      },
+      {
+        "filename": "What Should My First Course Be Based On__n1cl6zf9su.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "conquering-impossible-goals",
+    "name": "Conquering Impossible Goals",
+    "lessonCount": 23,
+    "workbookCount": 0,
+    "videoCount": 19,
+    "lessons": [],
+    "workbooks": [],
+    "videos": [
+      {
+        "filename": "6 Healthy Behaviors for Business Partners Who Are Married__jnmwqppjrt.mp4"
+      },
+      {
+        "filename": "Action Workbook Guided Training__cb8jf1sdu7.mp4"
+      },
+      {
+        "filename": "Commitment Workbook Guided Training__aabgir16gb.mp4"
+      },
+      {
+        "filename": "Conquering Impossible Goals Introduction Overview__uofp11qt72.mp4"
+      },
+      {
+        "filename": "Dealing With Doubt Around Your Physical Appearance__3k2wl5krj0.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Action__9uymbyi024.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Commitment__6qk3c15u3a.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Faith__o1xpufv646.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Integrity__xcyc2kkk6g.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Sacrifice__65w869lylt.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Schedule__rifj04dk0u.mp4"
+      },
+      {
+        "filename": "Faith Workbook Guided Training__0m0p9d8f1s.mp4"
+      },
+      {
+        "filename": "Focus Workbook Guided Training__e4bzcas09o.mp4"
+      },
+      {
+        "filename": "How to Overcome the Fear of Success__151egapoaq.mp4"
+      },
+      {
+        "filename": "Integrity Supplemental Training The Neuroscience of Breaking Through Limiting Beliefs__4ojfwjcjlw.mp4"
+      },
+      {
+        "filename": "Integrity Workbook Guided Training__oi5bzxkq5m.mp4"
+      },
+      {
+        "filename": "Sacrifice Supplemental Training How Bad Do You Want to Succeed__8toq4af3fn.mp4"
+      },
+      {
+        "filename": "Sacrifice Workbook Guided Training__jo55ouxogw.mp4"
+      },
+      {
+        "filename": "Schedule Workbook Guided Training__owfcvpg0xr.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "fast-cash-formula-mini-course",
+    "name": "Fast Cash Formula Mini-Course",
+    "lessonCount": 8,
+    "workbookCount": 1,
+    "videoCount": 8,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Fast Cash Formula: Introduction & Overview",
+        "file": "01-fast-cash-formula-introduction-overview.md",
+        "slug": "01-fast-cash-formula-introduction-overview",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Fast Cash Formula: How to Generate Revenue Using the Lead Generation Toolkit (Part 1)",
+        "file": "02-fast-cash-formula-how-to-generate-revenue-using-the-lead-gen.md",
+        "slug": "02-fast-cash-formula-how-to-generate-revenue-using-the-lead-gen",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Fast Cash Formula: How to Generate Revenue Using the Lead Generation Toolkit (Part 1 Continued)",
+        "file": "03-fast-cash-formula-how-to-generate-revenue-using-the-lead-gen.md",
+        "slug": "03-fast-cash-formula-how-to-generate-revenue-using-the-lead-gen",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Fast Cash Formula: Lead Generation Toolkit - The Scout Method",
+        "file": "04-fast-cash-formula-lead-generation-toolkit-the-scout-method.md",
+        "slug": "04-fast-cash-formula-lead-generation-toolkit-the-scout-method",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Fast Cash Formula: The C.H.E.C.K.I.N. Method for Infinite Referrals",
+        "file": "05-fast-cash-formula-the-checkin-method-for-infinite-referrals.md",
+        "slug": "05-fast-cash-formula-the-checkin-method-for-infinite-referrals",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Fast Cash Formula: The D.O.I.T.N.O.W. Method for Converting Free Sales Calls",
+        "file": "06-fast-cash-formula-the-doitnow-method-for-converting-free-sal.md",
+        "slug": "06-fast-cash-formula-the-doitnow-method-for-converting-free-sal",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Fast Cash Formula: How to Comfortably and Casually Close a Sale",
+        "file": "07-fast-cash-formula-how-to-comfortably-and-casually-close-a-sa.md",
+        "slug": "07-fast-cash-formula-how-to-comfortably-and-casually-close-a-sa",
+        "downloadCount": 0,
+        "videoCount": 1
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Transcript_Fast_Cash_Formula.docx_xde5he9dqkao.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Closing Supplemental Training How to Comfortably Casually Close a Sale__fm1pi4lomt.mp4"
+      },
+      {
+        "filename": "Fast Cash Formula Course Introduction.mp4"
+      },
+      {
+        "filename": "Fast Cash Formula How to Generate Revenue Using the Lead Generation Toolkit Part 1 Continu__5s15w12ubv.mp4"
+      },
+      {
+        "filename": "Fast Cash Formula How to Generate Revenue Using the Lead Generation Toolkit Part 1__svz9bz4kqm.mp4"
+      },
+      {
+        "filename": "Fast Cash Formula Introduction Overview__co4sq6qb2e.mp4"
+      },
+      {
+        "filename": "Fast Cash Formula Lead Generation Toolkit - The Scout Method__0ig7ykjyw7.mp4"
+      },
+      {
+        "filename": "Fast Cash Formula The C.H.E.C.K.I.N. Method for Infinite Referrals__pt66tum1rq.mp4"
+      },
+      {
+        "filename": "Fast Cash Formula The D.O.I.T.N.O.W. Method for Converting Free Sales Calls__qe96s5upya.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "finding-your-brand-dna",
+    "name": "Finding Your Brand DNA",
+    "lessonCount": 44,
+    "workbookCount": 6,
+    "videoCount": 42,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Welcome to Finding Your Brand DNA",
+        "file": "01-welcome-to-finding-your-brand-dna.md",
+        "slug": "01-welcome-to-finding-your-brand-dna",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Finding Your Brand DNA: Introduction & Overview",
+        "file": "02-finding-your-brand-dna-introduction-overview.md",
+        "slug": "02-finding-your-brand-dna-introduction-overview",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Core Target Audience: Workbook Guided Training",
+        "file": "03-core-target-audience-workbook-guided-training.md",
+        "slug": "03-core-target-audience-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Core Target Audience Supplemental Training: Getting Your Personal Brand and Business to Work Together",
+        "file": "04-core-target-audience-supplemental-training-getting-your-pers.md",
+        "slug": "04-core-target-audience-supplemental-training-getting-your-pers",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Core Target Audience Supplemental Training: How Do I Choose Between 2 Audiences to Focus On?",
+        "file": "05-core-target-audience-supplemental-training-how-do-i-choose-b.md",
+        "slug": "05-core-target-audience-supplemental-training-how-do-i-choose-b",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 6,
+        "title": "Core Target Audience Supplemental Training: How to Decide Which Avatar to Focus On",
+        "file": "06-core-target-audience-supplemental-training-how-to-decide-whi.md",
+        "slug": "06-core-target-audience-supplemental-training-how-to-decide-whi",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 7,
+        "title": "Problem & Cause: Workbook Guided Training",
+        "file": "07-problem-cause-workbook-guided-training.md",
+        "slug": "07-problem-cause-workbook-guided-training",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 8,
+        "title": "Problem & Cause Supplemental Training: Find Your 1-Word Problem",
+        "file": "08-problem-cause-supplemental-training-find-your-1-word-problem.md",
+        "slug": "08-problem-cause-supplemental-training-find-your-1-word-problem",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 9,
+        "title": "Problem & Cause Supplemental Training: The Difference Between Problem and Cause",
+        "file": "09-problem-cause-supplemental-training-the-difference-between-p.md",
+        "slug": "09-problem-cause-supplemental-training-the-difference-between-p",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 10,
+        "title": "Message & Uniqueness: Workbook Guided Training",
+        "file": "10-message-uniqueness-workbook-guided-training.md",
+        "slug": "10-message-uniqueness-workbook-guided-training",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 11,
+        "title": "Monetization Strategy: Workbook Guided Training",
+        "file": "11-monetization-strategy-workbook-guided-training.md",
+        "slug": "11-monetization-strategy-workbook-guided-training",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 12,
+        "title": "Monetization Strategy Supplemental Training: Fast Cash Formula",
+        "file": "12-monetization-strategy-supplemental-training-fast-cash-formul.md",
+        "slug": "12-monetization-strategy-supplemental-training-fast-cash-formul",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 13,
+        "title": "Monetization Strategy Supplemental Training: The 7 Pricing Models",
+        "file": "13-monetization-strategy-supplemental-training-the-7-pricing-mo.md",
+        "slug": "13-monetization-strategy-supplemental-training-the-7-pricing-mo",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 14,
+        "title": "Monetization Strategy Supplemental Training: Business Model Overview: Coaching",
+        "file": "14-monetization-strategy-supplemental-training-business-model-o.md",
+        "slug": "14-monetization-strategy-supplemental-training-business-model-o",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Monetization Strategy Supplemental Training: Business Model Overview: Consulting",
+        "file": "15-monetization-strategy-supplemental-training-business-model-o.md",
+        "slug": "15-monetization-strategy-supplemental-training-business-model-o",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "Monetization Strategy Supplemental Training: Business Model Overview: Speaking",
+        "file": "16-monetization-strategy-supplemental-training-business-model-o.md",
+        "slug": "16-monetization-strategy-supplemental-training-business-model-o",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "Monetization Strategy Supplemental Training: Business Model Overview: Seminars",
+        "file": "17-monetization-strategy-supplemental-training-business-model-o.md",
+        "slug": "17-monetization-strategy-supplemental-training-business-model-o",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "Monetization Strategy Supplemental Training: Business Model Overview: Memberships",
+        "file": "18-monetization-strategy-supplemental-training-business-model-o.md",
+        "slug": "18-monetization-strategy-supplemental-training-business-model-o",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 19,
+        "title": "Monetization Strategy Supplemental Training: Business Model Overview: Video Courses",
+        "file": "19-monetization-strategy-supplemental-training-business-model-o.md",
+        "slug": "19-monetization-strategy-supplemental-training-business-model-o",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 20,
+        "title": "Monetization Strategy Supplemental Training: Business Model Overview: Certifications Overview",
+        "file": "20-monetization-strategy-supplemental-training-business-model-o.md",
+        "slug": "20-monetization-strategy-supplemental-training-business-model-o",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 21,
+        "title": "Monetization Strategy Supplemental Training: Business Model Overview: Professional Services",
+        "file": "21-monetization-strategy-supplemental-training-business-model-o.md",
+        "slug": "21-monetization-strategy-supplemental-training-business-model-o",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 22,
+        "title": "Monetization Strategy Supplemental Training: When to go Full Time on Your Personal Brand",
+        "file": "22-monetization-strategy-supplemental-training-when-to-go-full-.md",
+        "slug": "22-monetization-strategy-supplemental-training-when-to-go-full-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 23,
+        "title": "Payoffs & Titles: Workbook Guided Training",
+        "file": "23-payoffs-titles-workbook-guided-training.md",
+        "slug": "23-payoffs-titles-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 24,
+        "title": "Payoffs & Titles Supplemental Training: Offer Structure & 5 Title Tests",
+        "file": "24-payoffs-titles-supplemental-training-offer-structure-5-title.md",
+        "slug": "24-payoffs-titles-supplemental-training-offer-structure-5-title",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 25,
+        "title": "Expert Bio: Workbook Guided Training",
+        "file": "25-expert-bio-workbook-guided-training.md",
+        "slug": "25-expert-bio-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 26,
+        "title": "Expert Bio Supplemental Training: Expert Bio Tips for Beginners",
+        "file": "26-expert-bio-supplemental-training-expert-bio-tips-for-beginne.md",
+        "slug": "26-expert-bio-supplemental-training-expert-bio-tips-for-beginne",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 27,
+        "title": "Expert Bio Supplemental Training: Confidently Claiming Your Identity",
+        "file": "27-expert-bio-supplemental-training-confidently-claiming-your-i.md",
+        "slug": "27-expert-bio-supplemental-training-confidently-claiming-your-i",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 28,
+        "title": "Finding Your Brand DNA: Closing & Wrap Up",
+        "file": "28-finding-your-brand-dna-closing-wrap-up.md",
+        "slug": "28-finding-your-brand-dna-closing-wrap-up",
+        "downloadCount": 1,
+        "videoCount": 0
+      },
+      {
+        "index": 29,
+        "title": "Is It Too Late For Me to Build a Personal Brand? ",
+        "file": "29-is-it-too-late-for-me-to-build-a-personal-brand.md",
+        "slug": "29-is-it-too-late-for-me-to-build-a-personal-brand",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 30,
+        "title": "How to Find Your Who (Avatar Persona)",
+        "file": "30-how-to-find-your-who-avatar-persona.md",
+        "slug": "30-how-to-find-your-who-avatar-persona",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 31,
+        "title": "Is It Better To Be a Specialist or A Generalist?",
+        "file": "31-is-it-better-to-be-a-specialist-or-a-generalist.md",
+        "slug": "31-is-it-better-to-be-a-specialist-or-a-generalist",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 32,
+        "title": "How Do I Choose The Right Strategy to Focus On?",
+        "file": "32-how-do-i-choose-the-right-strategy-to-focus-on.md",
+        "slug": "32-how-do-i-choose-the-right-strategy-to-focus-on",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 33,
+        "title": "How to Scale a 1-on-1 Coaching Program",
+        "file": "33-how-to-scale-a-1-on-1-coaching-program.md",
+        "slug": "33-how-to-scale-a-1-on-1-coaching-program",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 34,
+        "title": "Advanced Distinctions to Help Identify Uniqueness",
+        "file": "34-advanced-distinctions-to-help-identify-uniqueness.md",
+        "slug": "34-advanced-distinctions-to-help-identify-uniqueness",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 35,
+        "title": "Event Hot Seat (Core Target Audience)",
+        "file": "35-event-hot-seat-core-target-audience.md",
+        "slug": "35-event-hot-seat-core-target-audience",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 36,
+        "title": "Event Hot Seat (Core Target Audience_2)",
+        "file": "36-event-hot-seat-core-target-audience_2.md",
+        "slug": "36-event-hot-seat-core-target-audience_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 37,
+        "title": "Event Hot Seat (Message & Uniqueness)",
+        "file": "37-event-hot-seat-message-uniqueness.md",
+        "slug": "37-event-hot-seat-message-uniqueness",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 38,
+        "title": "Event Hot Seat (Message & Uniqueness_2)",
+        "file": "38-event-hot-seat-message-uniqueness_2.md",
+        "slug": "38-event-hot-seat-message-uniqueness_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 39,
+        "title": "Event Hot Seat (Problem & Cause)",
+        "file": "39-event-hot-seat-problem-cause.md",
+        "slug": "39-event-hot-seat-problem-cause",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 40,
+        "title": "Event Hot Seat (Monetization Strategy)",
+        "file": "40-event-hot-seat-monetization-strategy.md",
+        "slug": "40-event-hot-seat-monetization-strategy",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 41,
+        "title": "Event Hot Seat (Payoffs & Titles)",
+        "file": "41-event-hot-seat-payoffs-titles.md",
+        "slug": "41-event-hot-seat-payoffs-titles",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 42,
+        "title": "Event Hot Seat (Expert Bio)",
+        "file": "42-event-hot-seat-expert-bio.md",
+        "slug": "42-event-hot-seat-expert-bio",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 43,
+        "title": "Finding Your Brand DNA Resources",
+        "file": "43-finding-your-brand-dna-resources.md",
+        "slug": "43-finding-your-brand-dna-resources",
+        "downloadCount": 1,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_1_Finding_Your_Brand_DNA_Closing_Wrap_Up.docx_fukfjptqwoku.docx"
+      },
+      {
+        "filename": "Transcript_Finding_Your_Brand_DNA_Brand_Positioning_Statemen_t4z7s3uyxiw7.docx"
+      },
+      {
+        "filename": "Transcript_Finding_Your_Brand_DNA_Core_Target_Audience_Workb_s2k4mdbj8ca5.docx"
+      },
+      {
+        "filename": "Transcript_Finding_Your_Brand_DNA_Expert_Bio_Workbook_Guided_hbf3qlxwfnl4.docx"
+      },
+      {
+        "filename": "Transcript_Finding_Your_Brand_DNA_Introduction_and_Overview._dyc5hn1xil8o.docx"
+      },
+      {
+        "filename": "Transcript_Finding_Your_Brand_DNA_Welcome.docx_rvtd3b50rx5h.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Advanced Distinctions to Help Identify Uniqueness__y70p7b98nq.mp4"
+      },
+      {
+        "filename": "Business Model Matrix Professional Services 6102026__h94at6slrx.mp4"
+      },
+      {
+        "filename": "Core Target Audience Supplemental Training Getting Your Personal Brand and Business to Wor__tytj7nd1uf.mp4"
+      },
+      {
+        "filename": "Core Target Audience Supplemental Training How Do I Choose Between 2 Audiences to Focus On__5bgaotzgas.mp4"
+      },
+      {
+        "filename": "Core Target Audience Supplemental Training How to Decide Which Avatar to Focus On__a0kabxg9vn.mp4"
+      },
+      {
+        "filename": "Core Target Audience Workbook Guided Training__kb333xar49.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Core Target Audience_2__yjng12c8iw.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Core Target Audience__x8fr6qcurl.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Expert Bio__zh2lggq9nz.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Message Uniqueness_2__9t7vxvr21r.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Message Uniqueness__17dwlui3fd.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Monetization Strategy__ogp3rnuoke.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Payoffs Titles__jjutiaex7y.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Problem Cause__yim67e36ac.mp4"
+      },
+      {
+        "filename": "Expert Bio Supplemental Training Confidently Claiming Your Identity__22riih452d.mp4"
+      },
+      {
+        "filename": "Expert Bio Supplemental Training Expert Bio Tips for Beginners__c53k43i99u.mp4"
+      },
+      {
+        "filename": "Expert Bio Workbook Guided Training__xbgvlgefw9.mp4"
+      },
+      {
+        "filename": "Finding Your Brand DNA Closing Wrap Up__qlk1ynud71.mp4"
+      },
+      {
+        "filename": "Finding Your Brand DNA Introduction Overview__2mygomj5m5.mp4"
+      },
+      {
+        "filename": "How Do I Choose The Right Strategy to Focus On__e60pd9p3kd.mp4"
+      },
+      {
+        "filename": "How to Find Your Who Avatar Persona__jd0ivwiley.mp4"
+      },
+      {
+        "filename": "How to Scale a 1-on-1 Coaching Program__toxj88j8gl.mp4"
+      },
+      {
+        "filename": "Is It Better To Be a Specialist or A Generalist__f66ma81bjg.mp4"
+      },
+      {
+        "filename": "Is It Too Late For Me to Build a Personal Brand__ndxaqu5bto.mp4"
+      },
+      {
+        "filename": "Message Uniqueness Workbook Guided Training__clxca4dkwg.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training Business Model Overview Certifications Overvie__2iijcdexjx.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training Business Model Overview Coaching__8utnqa90c4.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training Business Model Overview Consulting__1brxww7hku.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training Business Model Overview Memberships__bijcgo66du.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training Business Model Overview Seminars__fft2ydf3zg.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training Business Model Overview Speaking__nut4gg8c4n.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training Business Model Overview Video Courses__k61qwfl34t.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training Fast Cash Formula__w8t2pkjzaw.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training The 7 Pricing Models__2fzl88przb.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Supplemental Training When to go Full Time on Your Personal Brand__bo2w0b4fuv.mp4"
+      },
+      {
+        "filename": "Monetization Strategy Workbook Guided Training__jfphr2rurd.mp4"
+      },
+      {
+        "filename": "Payoffs Titles Supplemental Training Offer Structure 5 Title Tests__lc46psrhlo.mp4"
+      },
+      {
+        "filename": "Payoffs Titles Workbook Guided Training__xiu8vo361z.mp4"
+      },
+      {
+        "filename": "Problem Cause Supplemental Training Find Your 1-Word Problem__ndomdtk4zu.mp4"
+      },
+      {
+        "filename": "Problem Cause Supplemental Training The Difference Between Problem and Cause__volhqcct6v.mp4"
+      },
+      {
+        "filename": "Problem Cause Workbook Guided Training__cwypyp0gzf.mp4"
+      },
+      {
+        "filename": "Welcome to Finding Your Brand DNA__exwkib2q9v.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "full-keynote-calendar",
+    "name": "Full Keynote Calendar",
+    "lessonCount": 28,
+    "workbookCount": 6,
+    "videoCount": 27,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Full Keynote Calendar: Introduction & Overview",
+        "file": "01-full-keynote-calendar-introduction-overview.md",
+        "slug": "01-full-keynote-calendar-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "The 1st Thing You Need to Get Booked",
+        "file": "02-the-1st-thing-you-need-to-get-booked.md",
+        "slug": "02-the-1st-thing-you-need-to-get-booked",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "The 2nd Thing You Need to Get Booked",
+        "file": "03-the-2nd-thing-you-need-to-get-booked.md",
+        "slug": "03-the-2nd-thing-you-need-to-get-booked",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "The 3rd Thing You Need to Get Booked",
+        "file": "04-the-3rd-thing-you-need-to-get-booked.md",
+        "slug": "04-the-3rd-thing-you-need-to-get-booked",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "The 4th Thing You Need to Get Booked",
+        "file": "05-the-4th-thing-you-need-to-get-booked.md",
+        "slug": "05-the-4th-thing-you-need-to-get-booked",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "How to Get Booked: Workbook Guided Training",
+        "file": "06-how-to-get-booked-workbook-guided-training.md",
+        "slug": "06-how-to-get-booked-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "How to Get Booked: Workbook Guided Training_2",
+        "file": "07-how-to-get-booked-workbook-guided-training_2.md",
+        "slug": "07-how-to-get-booked-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 1_How to Get Booked As A Speaker",
+        "file": "08-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "08-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 2_How to Write a Speaker Program Description",
+        "file": "09-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "09-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 3_Where to Find Speaking Gigs",
+        "file": "10-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "10-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 4_Creating Your Speaker Program & Demo Video",
+        "file": "11-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "11-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 5_What Makes a Good Demo Video",
+        "file": "12-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "12-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 6_How to Set Your Speaking Fee",
+        "file": "13-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "13-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 7_Creating a Compelling Speaker Kit With Nad",
+        "file": "14-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "14-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 8_The Speaker Fee Calculator",
+        "file": "15-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "15-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 9_The Keynote Scrape Method",
+        "file": "16-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "16-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "How to Get Booked Supplemental Training: How to Get the Gig_Miniseries_Part 10_The Sources of Speaking Gigs (For Both Ne",
+        "file": "17-how-to-get-booked-supplemental-training-how-to-get-the-gig_m.md",
+        "slug": "17-how-to-get-booked-supplemental-training-how-to-get-the-gig_m",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "Once You're Booked: Workbook Guided Training",
+        "file": "18-once-youre-booked-workbook-guided-training.md",
+        "slug": "18-once-youre-booked-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 19,
+        "title": "Once You're Booked: Workbook Guided Training_2",
+        "file": "19-once-youre-booked-workbook-guided-training_2.md",
+        "slug": "19-once-youre-booked-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 20,
+        "title": "Finding Client Contact Info",
+        "file": "20-finding-client-contact-info.md",
+        "slug": "20-finding-client-contact-info",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 21,
+        "title": "How to Write a Speaker Program Description",
+        "file": "21-how-to-write-a-speaker-program-description.md",
+        "slug": "21-how-to-write-a-speaker-program-description",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 22,
+        "title": "Specialized Training: 3 Secrets of Viral TED Talks: 3 Secrets of Viral TED Talks",
+        "file": "22-specialized-training-3-secrets-of-viral-ted-talks-3-secrets-.md",
+        "slug": "22-specialized-training-3-secrets-of-viral-ted-talks-3-secrets-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 23,
+        "title": "How Do I Start Getting Paid As A Keynote Speaker?",
+        "file": "23-how-do-i-start-getting-paid-as-a-keynote-speaker.md",
+        "slug": "23-how-do-i-start-getting-paid-as-a-keynote-speaker",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 24,
+        "title": "How to Write an Amazing 10-Minute Speech",
+        "file": "24-how-to-write-an-amazing-10-minute-speech.md",
+        "slug": "24-how-to-write-an-amazing-10-minute-speech",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 25,
+        "title": "Event Hot Seat (The 1st Thing You Need)",
+        "file": "25-event-hot-seat-the-1st-thing-you-need.md",
+        "slug": "25-event-hot-seat-the-1st-thing-you-need",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 26,
+        "title": "Event Hot Seat (The 3rd Thing You Need)",
+        "file": "26-event-hot-seat-the-3rd-thing-you-need.md",
+        "slug": "26-event-hot-seat-the-3rd-thing-you-need",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 27,
+        "title": "Event Hot Seat (The 4th Thing You Need)",
+        "file": "27-event-hot-seat-the-4th-thing-you-need.md",
+        "slug": "27-event-hot-seat-the-4th-thing-you-need",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 28,
+        "title": "Full Keynote Calendar Resources",
+        "file": "28-full-keynote-calendar-resources.md",
+        "slug": "28-full-keynote-calendar-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_3_Selling_Full_Keynote_Calendar_Lesson_1_The_1st_Thing_idbzcmv26qmi.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Full_Keynote_Calendar_Lesson_2_The_2nd_Thing_n9zmsek4g17q.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Full_Keynote_Calendar_Lesson_3_The_3rd_Thing_usmrfu9798fn.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Full_Keynote_Calendar_Lesson_4_The_4th_Thing_ilp4kn6pzfm5.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Full_Keynote_Calendar_Lesson_5_How_to_Get_Bo_53lyb27o2g50.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Full_Keynote_Calendar_Lesson_6_Once_Youre_B_5et5mq777161.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Event Hot Seat The 1st Thing You Need__k13ofvtrqn.mp4"
+      },
+      {
+        "filename": "Event Hot Seat The 3rd Thing You Need__mpd6tlbu1t.mp4"
+      },
+      {
+        "filename": "Event Hot Seat The 4th Thing You Need__aorjdx8h9c.mp4"
+      },
+      {
+        "filename": "Finding Client Contact Info__e972waufrj.mp4"
+      },
+      {
+        "filename": "Full Keynote Calendar Introduction Overview__w84k09ejic.mp4"
+      },
+      {
+        "filename": "How Do I Start Getting Paid As A Keynote Speaker__stay1wqfdl.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 10_The Sources__wztccy813v.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 1_How to Get Bo__j0xsm7dgnq.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 2_How to Write__vqfit2ylek.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 3_Where to Find__lidk1epk2h.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 4_Creating Your__ec9icoidbs.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 5_What Makes a__8t21miz4xb.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 6_How to Set Yo__qfzbvp76bj.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 7_Creating a Co__tov62s3xc1.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 8_The Speaker F__vbqsa10zbi.mp4"
+      },
+      {
+        "filename": "How to Get Booked Supplemental Training How to Get the Gig_Miniseries_Part 9_The Keynote S__7yvzmpzn65.mp4"
+      },
+      {
+        "filename": "How to Get Booked Workbook Guided Training_2__hv62jmzrjd.mp4"
+      },
+      {
+        "filename": "How to Get Booked Workbook Guided Training__7zccidjoq5.mp4"
+      },
+      {
+        "filename": "How to Write a Speaker Program Description__xv8hhnudke.mp4"
+      },
+      {
+        "filename": "How to Write an Amazing 10-Minute Speech__jr406xwm7l.mp4"
+      },
+      {
+        "filename": "Once Youre Booked Workbook Guided Training_2__7hf29yzq7q.mp4"
+      },
+      {
+        "filename": "Once Youre Booked Workbook Guided Training__18nfzrvfmt.mp4"
+      },
+      {
+        "filename": "Specialized Training 3 Secrets of Viral TED Talks 3 Secrets of Viral TED Talks__pnqe4g6uu2.mp4"
+      },
+      {
+        "filename": "The 1st Thing You Need to Get Booked__f94lh5auv7.mp4"
+      },
+      {
+        "filename": "The 2nd Thing You Need to Get Booked__rjj30h67kv.mp4"
+      },
+      {
+        "filename": "The 3rd Thing You Need to Get Booked__4yw2mc219y.mp4"
+      },
+      {
+        "filename": "The 4th Thing You Need to Get Booked__m1w5zyg3ue.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "high-earner-habits-mini-course",
+    "name": "High-Earner Habits Mini-Course",
+    "lessonCount": 3,
+    "workbookCount": 0,
+    "videoCount": 2,
+    "lessons": [],
+    "workbooks": [],
+    "videos": [
+      {
+        "filename": "High-Earner Habits Part 1__j7ci5lrlbf.mp4"
+      },
+      {
+        "filename": "High-Earner Habits Part 2__ixlenh1l6u.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "high-traffic-strategies",
+    "name": "High Traffic Strategies",
+    "lessonCount": 21,
+    "workbookCount": 6,
+    "videoCount": 19,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "High Traffic Strategies: Introduction & Overview",
+        "file": "01-high-traffic-strategies-introduction-overview.md",
+        "slug": "01-high-traffic-strategies-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Mindset: Workbook Guided Training",
+        "file": "02-mindset-workbook-guided-training.md",
+        "slug": "02-mindset-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "SEO: Workbook Guided Training",
+        "file": "03-seo-workbook-guided-training.md",
+        "slug": "03-seo-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Facebook & Instagram Ads: Workbook Guided Training",
+        "file": "04-facebook-instagram-ads-workbook-guided-training.md",
+        "slug": "04-facebook-instagram-ads-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Facebook & Instagram Ads: Workbook Guided Training_2",
+        "file": "05-facebook-instagram-ads-workbook-guided-training_2.md",
+        "slug": "05-facebook-instagram-ads-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Google & YouTube Ads: Workbook Guided Training",
+        "file": "06-google-youtube-ads-workbook-guided-training.md",
+        "slug": "06-google-youtube-ads-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Data Dashboard Reporting: Workbook Guided Training",
+        "file": "07-data-dashboard-reporting-workbook-guided-training.md",
+        "slug": "07-data-dashboard-reporting-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Affiliate Marketing: Workbook Guided Training",
+        "file": "08-affiliate-marketing-workbook-guided-training.md",
+        "slug": "08-affiliate-marketing-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "How to Apply the 15Ps to Your Press Kit",
+        "file": "09-how-to-apply-the-15ps-to-your-press-kit.md",
+        "slug": "09-how-to-apply-the-15ps-to-your-press-kit",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "How Does Your BPS Show Up On Your Website?",
+        "file": "10-how-does-your-bps-show-up-on-your-website.md",
+        "slug": "10-how-does-your-bps-show-up-on-your-website",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Event Hot Seat (Affiliate Marketing)",
+        "file": "11-event-hot-seat-affiliate-marketing.md",
+        "slug": "11-event-hot-seat-affiliate-marketing",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Event Hot Seat (Mindset)",
+        "file": "12-event-hot-seat-mindset.md",
+        "slug": "12-event-hot-seat-mindset",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "Event Hot Seat (Mindset_2)",
+        "file": "13-event-hot-seat-mindset_2.md",
+        "slug": "13-event-hot-seat-mindset_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Event Hot Seat (SEO)",
+        "file": "14-event-hot-seat-seo.md",
+        "slug": "14-event-hot-seat-seo",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Event Hot Seat (SEO_2)",
+        "file": "15-event-hot-seat-seo_2.md",
+        "slug": "15-event-hot-seat-seo_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "Event Hot Seat (Facebook & Instagram Ads)",
+        "file": "16-event-hot-seat-facebook-instagram-ads.md",
+        "slug": "16-event-hot-seat-facebook-instagram-ads",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "Event Hot Seat (Google & YouTube Ads)",
+        "file": "17-event-hot-seat-google-youtube-ads.md",
+        "slug": "17-event-hot-seat-google-youtube-ads",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "Event Hot Seat (Data Dashboard Reporting)",
+        "file": "18-event-hot-seat-data-dashboard-reporting.md",
+        "slug": "18-event-hot-seat-data-dashboard-reporting",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 19,
+        "title": "Event Hot Seat (Data Dashboard Reporting_2)",
+        "file": "19-event-hot-seat-data-dashboard-reporting_2.md",
+        "slug": "19-event-hot-seat-data-dashboard-reporting_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 20,
+        "title": "High Traffic Strategies Resources",
+        "file": "20-high-traffic-strategies-resources.md",
+        "slug": "20-high-traffic-strategies-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_2_Marketing_High_Traffic_Strategies_Lesson_1_Mindset_W_a77q1l57srp7.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_High_Traffic_Strategies_Lesson_2_SEO_Workb_i2w3vs7kptfo.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_High_Traffic_Strategies_Lesson_3_Facebook__w8qils1dfe5k.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_High_Traffic_Strategies_Lesson_4_Google__eqe5r25h8w87.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_High_Traffic_Strategies_Lesson_5_Data_Dash_5punzfxvq8bn.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_High_Traffic_Strategies_Lesson_6_Affiliate_hzp1txxg7cfo.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Affiliate Marketing Workbook Guided Training__75195nehho.mp4"
+      },
+      {
+        "filename": "Data Dashboard Reporting Workbook Guided Training__90pk9wh5oj.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Affiliate Marketing__tryvobnlm9.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Data Dashboard Reporting_2__pao6r8srha.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Data Dashboard Reporting__douvn7vdm2.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Facebook Instagram Ads__93qt3js6kz.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Google YouTube Ads__2z74lgusvu.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Mindset_2__c662ta69sv.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Mindset__ejfyyqhv5n.mp4"
+      },
+      {
+        "filename": "Event Hot Seat SEO_2__ezv69b1jce.mp4"
+      },
+      {
+        "filename": "Event Hot Seat SEO__lj88ftc9gq.mp4"
+      },
+      {
+        "filename": "Facebook Instagram Ads Workbook Guided Training_2__jzibsw04ke.mp4"
+      },
+      {
+        "filename": "Facebook Instagram Ads Workbook Guided Training__7wpvzo9m5q.mp4"
+      },
+      {
+        "filename": "Google YouTube Ads Workbook Guided Training__ze721j0hio.mp4"
+      },
+      {
+        "filename": "High Traffic Strategies Introduction Overview__6cilgjtlkq.mp4"
+      },
+      {
+        "filename": "How Does Your BPS Show Up On Your Website__7bzok6b4vd.mp4"
+      },
+      {
+        "filename": "How to Apply the 15Ps to Your Press Kit__7iwsnbhepa.mp4"
+      },
+      {
+        "filename": "Mindset Workbook Guided Training__a4vk1uqhiq.mp4"
+      },
+      {
+        "filename": "SEO Workbook Guided Training__pbw9wufl9t.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "influential-leader",
+    "name": "Influential Leader",
+    "lessonCount": 15,
+    "workbookCount": 7,
+    "videoCount": 13,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Influential Leader: Introduction & Overview",
+        "file": "01-influential-leader-introduction-overview.md",
+        "slug": "01-influential-leader-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Study: Workbook Guided Training",
+        "file": "02-study-workbook-guided-training.md",
+        "slug": "02-study-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Example: Workbook Guided Training",
+        "file": "03-example-workbook-guided-training.md",
+        "slug": "03-example-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Recruiting: Workbook Guided Training",
+        "file": "04-recruiting-workbook-guided-training.md",
+        "slug": "04-recruiting-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Vision: Workbook Guided Training",
+        "file": "05-vision-workbook-guided-training.md",
+        "slug": "05-vision-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Inspire: Workbook Guided Training",
+        "file": "06-inspire-workbook-guided-training.md",
+        "slug": "06-inspire-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Coaching: Workbook Guided Training",
+        "file": "07-coaching-workbook-guided-training.md",
+        "slug": "07-coaching-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Educate: Workbook Guided Training",
+        "file": "08-educate-workbook-guided-training.md",
+        "slug": "08-educate-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 0
+      },
+      {
+        "index": 9,
+        "title": "Event Hot Seat (Study)",
+        "file": "09-event-hot-seat-study.md",
+        "slug": "09-event-hot-seat-study",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Event Hot Seat (Example)",
+        "file": "10-event-hot-seat-example.md",
+        "slug": "10-event-hot-seat-example",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Event Hot Seat (Recruiting)",
+        "file": "11-event-hot-seat-recruiting.md",
+        "slug": "11-event-hot-seat-recruiting",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 12,
+        "title": "Event Hot Seat (Vision)",
+        "file": "12-event-hot-seat-vision.md",
+        "slug": "12-event-hot-seat-vision",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "Event Hot Seat (Inspire)",
+        "file": "13-event-hot-seat-inspire.md",
+        "slug": "13-event-hot-seat-inspire",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Influential Leader Resources",
+        "file": "14-influential-leader-resources.md",
+        "slug": "14-influential-leader-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_4_Scaling_Influential_LeaderLesson_5_Inspire_Workbook__2li73eorh67b.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Influential_Leader_Lesson_1_Study_Workbook_G_8dff7j4hlpzu.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Influential_Leader_Lesson_2_Example_Workbook_r7sdqwibsmx1.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Influential_Leader_Lesson_3_Recruiting_Workb_mm5ff92lm0p7.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Influential_Leader_Lesson_4_Vision_Workbook__gh0vxepn5jv5.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Influential_Leader_Lesson_6_Coaching_Workboo_k1ktwvivk88u.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Influential_Leader_Lesson_7_Educate_Workbook_271xyxf1m8pk.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Coaching Workbook Guided Training__qjvg1si8ur.mp4"
+      },
+      {
+        "filename": "Educate Workbook Guided Training__lttbv5u64w.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Example__guzx1uvfd3.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Inspire__qq9s7lbc0y.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Recruiting__0dscunjls2.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Study__kpadshtl0e.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Vision__idjug6zil9.mp4"
+      },
+      {
+        "filename": "Example Workbook Guided Training__hqt21behcg.mp4"
+      },
+      {
+        "filename": "Influential Leader Introduction Overview__zywf1onzu7.mp4"
+      },
+      {
+        "filename": "Inspire Workbook Guided Training__5d0n6246tk.mp4"
+      },
+      {
+        "filename": "Recruiting Workbook Guided Training__wgxn0vxkcx.mp4"
+      },
+      {
+        "filename": "Study Workbook Guided Training__uvui101t6u.mp4"
+      },
+      {
+        "filename": "Vision Workbook Guided Training__gj2hhcbgvk.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "multiplier-mentality",
+    "name": "Multiplier Mentality",
+    "lessonCount": 16,
+    "workbookCount": 7,
+    "videoCount": 14,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Multiplier Mentality: Introduction & Overview",
+        "file": "01-multiplier-mentality-introduction-overview.md",
+        "slug": "01-multiplier-mentality-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Time Management: Workbook Guided Training",
+        "file": "02-time-management-workbook-guided-training.md",
+        "slug": "02-time-management-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Time Management: Workbook Guided Training_2",
+        "file": "03-time-management-workbook-guided-training_2.md",
+        "slug": "03-time-management-workbook-guided-training_2",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Eliminate: Workbook Guided Training",
+        "file": "04-eliminate-workbook-guided-training.md",
+        "slug": "04-eliminate-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Automate: Workbook Guided Training",
+        "file": "05-automate-workbook-guided-training.md",
+        "slug": "05-automate-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Delegate: Workbook Guided Training",
+        "file": "06-delegate-workbook-guided-training.md",
+        "slug": "06-delegate-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Procrastinate: Workbook Guided Training",
+        "file": "07-procrastinate-workbook-guided-training.md",
+        "slug": "07-procrastinate-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Concentrate: Workbook Guided Training",
+        "file": "08-concentrate-workbook-guided-training.md",
+        "slug": "08-concentrate-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "Event Hot Seat (Time Management)",
+        "file": "09-event-hot-seat-time-management.md",
+        "slug": "09-event-hot-seat-time-management",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Event Hot Seat (Eliminate)",
+        "file": "10-event-hot-seat-eliminate.md",
+        "slug": "10-event-hot-seat-eliminate",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Event Hot Seat (Automate)",
+        "file": "11-event-hot-seat-automate.md",
+        "slug": "11-event-hot-seat-automate",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Event Hot Seat (Delegate)",
+        "file": "12-event-hot-seat-delegate.md",
+        "slug": "12-event-hot-seat-delegate",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "Event Hot Seat (Procrastinate)",
+        "file": "13-event-hot-seat-procrastinate.md",
+        "slug": "13-event-hot-seat-procrastinate",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Event Hot Seat (Concentrate)",
+        "file": "14-event-hot-seat-concentrate.md",
+        "slug": "14-event-hot-seat-concentrate",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Multiplier Mentality Resources",
+        "file": "15-multiplier-mentality-resources.md",
+        "slug": "15-multiplier-mentality-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Personal_Development_Multiplier_Mentality_Lesson_1_Time_Mana_8fsr3rerss0x.docx"
+      },
+      {
+        "filename": "Personal_Development_Multiplier_Mentality_Lesson_1_Time_Mana_zohmadp2pf42.docx"
+      },
+      {
+        "filename": "Personal_Development_Multiplier_Mentality_Lesson_2_Eliminate_eu9qenejbb3h.docx"
+      },
+      {
+        "filename": "Personal_Development_Multiplier_Mentality_Lesson_3_Automate__imln2fa09j22.docx"
+      },
+      {
+        "filename": "Personal_Development_Multiplier_Mentality_Lesson_4_Delegate__0rei0lv813uj.docx"
+      },
+      {
+        "filename": "Personal_Development_Multiplier_Mentality_Lesson_5_Procrasti_zn3s64uvkqau.docx"
+      },
+      {
+        "filename": "Personal_Development_Multiplier_Mentality_Lesson_6_Concentra_v2jbwsxvhm7l.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Automate Workbook Guided Training__z2osx0zjid.mp4"
+      },
+      {
+        "filename": "Concentrate Workbook Guided Training__ri5k3p8hlx.mp4"
+      },
+      {
+        "filename": "Delegate Workbook Guided Training__97957sh5gj.mp4"
+      },
+      {
+        "filename": "Eliminate Workbook Guided Training__flr6vbydq3.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Automate__1ebxdf2av7.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Concentrate__3s15vncvx5.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Delegate__2nble3ut3f.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Eliminate__z8y7gpijn0.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Procrastinate__ha357nak4x.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Time Management__y5bhweesod.mp4"
+      },
+      {
+        "filename": "Multiplier Mentality Introduction Overview__jl9rhwhs2g.mp4"
+      },
+      {
+        "filename": "Procrastinate Workbook Guided Training__ghhqvm8nu3.mp4"
+      },
+      {
+        "filename": "Time Management Workbook Guided Training_2__uxg57fhvn5.mp4"
+      },
+      {
+        "filename": "Time Management Workbook Guided Training__1mgsfonipv.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "new-pro-member-onboarding",
+    "name": "New Pro Member Onboarding",
+    "lessonCount": 17,
+    "workbookCount": 0,
+    "videoCount": 14,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Welcome to Brand Builders Group!",
+        "file": "01-welcome-to-brand-builders-group.md",
+        "slug": "01-welcome-to-brand-builders-group",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 2,
+        "title": "What is a Personal Brand?",
+        "file": "02-what-is-a-personal-brand.md",
+        "slug": "02-what-is-a-personal-brand",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "BBG Member Journeys",
+        "file": "03-bbg-member-journeys.md",
+        "slug": "03-bbg-member-journeys",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 4,
+        "title": "How to Complete Each Topic",
+        "file": "04-how-to-complete-each-topic.md",
+        "slug": "04-how-to-complete-each-topic",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 5,
+        "title": "Your Client Repository",
+        "file": "05-your-client-repository.md",
+        "slug": "05-your-client-repository",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Onboarding Cohorts",
+        "file": "06-onboarding-cohorts.md",
+        "slug": "06-onboarding-cohorts",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Working with Your Strategist",
+        "file": "07-working-with-your-strategist.md",
+        "slug": "07-working-with-your-strategist",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "BBG Events",
+        "file": "08-bbg-events.md",
+        "slug": "08-bbg-events",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 9,
+        "title": "Virtual Trainings",
+        "file": "09-virtual-trainings.md",
+        "slug": "09-virtual-trainings",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 10,
+        "title": "Courses",
+        "file": "10-courses.md",
+        "slug": "10-courses",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 11,
+        "title": "BBG Bots",
+        "file": "11-bbg-bots.md",
+        "slug": "11-bbg-bots",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 12,
+        "title": "Leveraging the Community",
+        "file": "12-leveraging-the-community.md",
+        "slug": "12-leveraging-the-community",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 13,
+        "title": "Annual Planning Calls",
+        "file": "13-annual-planning-calls.md",
+        "slug": "13-annual-planning-calls",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "How to Get Help",
+        "file": "14-how-to-get-help.md",
+        "slug": "14-how-to-get-help",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 15,
+        "title": "Your Next Steps",
+        "file": "15-your-next-steps.md",
+        "slug": "15-your-next-steps",
+        "downloadCount": 0,
+        "videoCount": 1
+      }
+    ],
+    "workbooks": [],
+    "videos": [
+      {
+        "filename": "Annual Planning Calls__ij3kg6orlv.mp4"
+      },
+      {
+        "filename": "BBG Bots__qte4df3hd3.mp4"
+      },
+      {
+        "filename": "BBG Events__y1jabjrmhk.mp4"
+      },
+      {
+        "filename": "BBG Member Journeys__op7iasd36n.mp4"
+      },
+      {
+        "filename": "How to Complete Each Topic__j9qjxv7l7o.mp4"
+      },
+      {
+        "filename": "How to Get Help__1b9ukbl4z7.mp4"
+      },
+      {
+        "filename": "Leveraging the Community__bajzk77d37.mp4"
+      },
+      {
+        "filename": "Onboarding Cohorts__vyurufcfc1.mp4"
+      },
+      {
+        "filename": "Virtual Trainings__hio0pij3cb.mp4"
+      },
+      {
+        "filename": "Welcome to Brand Builders Group__anfsi9ycdg.mp4"
+      },
+      {
+        "filename": "What is a Personal Brand__w7l2y1xcau.mp4"
+      },
+      {
+        "filename": "Working with Your Strategist__pfenqukz30.mp4"
+      },
+      {
+        "filename": "Your Client Repository__lt8g5b5w92.mp4"
+      },
+      {
+        "filename": "Your Next Steps__824czp54it.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "podcast-power",
+    "name": "Podcast Power",
+    "lessonCount": 20,
+    "workbookCount": 7,
+    "videoCount": 18,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Podcast Power: Introduction & Overview",
+        "file": "01-podcast-power-introduction-overview.md",
+        "slug": "01-podcast-power-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Premise: Workbook Guided Training",
+        "file": "02-premise-workbook-guided-training.md",
+        "slug": "02-premise-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Premise Supplemental Training: How to Brand a Podcast",
+        "file": "03-premise-supplemental-training-how-to-brand-a-podcast.md",
+        "slug": "03-premise-supplemental-training-how-to-brand-a-podcast",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Outline: Workbook Guided Training",
+        "file": "04-outline-workbook-guided-training.md",
+        "slug": "04-outline-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Dollars: Workbook Guided Training",
+        "file": "05-dollars-workbook-guided-training.md",
+        "slug": "05-dollars-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Dollars: Workbook Guided Training_2",
+        "file": "06-dollars-workbook-guided-training_2.md",
+        "slug": "06-dollars-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Content: Workbook Guided Training",
+        "file": "07-content-workbook-guided-training.md",
+        "slug": "07-content-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Content Supplemental Training: How to Get A-List Podcast Guests With Matt Lebris",
+        "file": "08-content-supplemental-training-how-to-get-a-list-podcast-gues.md",
+        "slug": "08-content-supplemental-training-how-to-get-a-list-podcast-gues",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "Audience: Workbook Guided Training",
+        "file": "09-audience-workbook-guided-training.md",
+        "slug": "09-audience-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Audience Supplemental Training: Online Courses & Podcast Launches",
+        "file": "10-audience-supplemental-training-online-courses-podcast-launch.md",
+        "slug": "10-audience-supplemental-training-online-courses-podcast-launch",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Syndication: Workbook Guided Training",
+        "file": "11-syndication-workbook-guided-training.md",
+        "slug": "11-syndication-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Technology: Workbook Guided Training",
+        "file": "12-technology-workbook-guided-training.md",
+        "slug": "12-technology-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "How to Get Yourself Booked On Other Podcasts",
+        "file": "13-how-to-get-yourself-booked-on-other-podcasts.md",
+        "slug": "13-how-to-get-yourself-booked-on-other-podcasts",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Event Hot Seat (Outline)",
+        "file": "14-event-hot-seat-outline.md",
+        "slug": "14-event-hot-seat-outline",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Event Hot Seat (Dollars)",
+        "file": "15-event-hot-seat-dollars.md",
+        "slug": "15-event-hot-seat-dollars",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "Event Hot Seat (Content)",
+        "file": "16-event-hot-seat-content.md",
+        "slug": "16-event-hot-seat-content",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "Event Hot Seat (Audience)",
+        "file": "17-event-hot-seat-audience.md",
+        "slug": "17-event-hot-seat-audience",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "Event Hot Seat (Technology)",
+        "file": "18-event-hot-seat-technology.md",
+        "slug": "18-event-hot-seat-technology",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 19,
+        "title": "Podcast Power Resources",
+        "file": "19-podcast-power-resources.md",
+        "slug": "19-podcast-power-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_2_Marketing_Podcast_Power_Lesson_1_Premise_How_to_Bran_bfnta5xt02f2.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Podcast_Power_Lesson_2_Outline_Workbook_Gu_rndkksrl1ki8.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Podcast_Power_Lesson_3_Dollars_Workbook_Gu_5sxizkifjri4.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Podcast_Power_Lesson_4_Content_Workbook_Gu_c66ndiil6we1.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Podcast_Power_Lesson_5_Audience_Workbook__d014k7uy810k.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Podcast_Power_Lesson_6_Syndication_Workboo_s61voazkmlxn.docx"
+      },
+      {
+        "filename": "Phase_2_Marketing_Podcast_Power_Lesson_7_Technology_Workbook_gbg2kuy3swto.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Audience Supplemental Training Online Courses Podcast Launches__jaj8h371wc.mp4"
+      },
+      {
+        "filename": "Audience Workbook Guided Training__cotmx3w9aj.mp4"
+      },
+      {
+        "filename": "Content Supplemental Training How to Get A-List Podcast Guests With Matt Lebris__5w4t8q9pdh.mp4"
+      },
+      {
+        "filename": "Content Workbook Guided Training__y883n5u741.mp4"
+      },
+      {
+        "filename": "Dollars Workbook Guided Training_2__8lhqprpmbl.mp4"
+      },
+      {
+        "filename": "Dollars Workbook Guided Training__oxhqw6bh3n.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Audience__u7kc4j0c8j.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Content__273rkycor5.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Dollars__02zpkdky65.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Outline__xppify4hp8.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Technology__b1bxneuq5k.mp4"
+      },
+      {
+        "filename": "How to Get Yourself Booked On Other Podcasts__lrxvgld2bs.mp4"
+      },
+      {
+        "filename": "Outline Workbook Guided Training__sug141xvll.mp4"
+      },
+      {
+        "filename": "Podcast Power Introduction Overview__ron446q8u1.mp4"
+      },
+      {
+        "filename": "Premise Supplemental Training How to Brand a Podcast__57tolooctb.mp4"
+      },
+      {
+        "filename": "Premise Workbook Guided Training__mn6whb4qrc.mp4"
+      },
+      {
+        "filename": "Syndication Workbook Guided Training__34bpy6qsjy.mp4"
+      },
+      {
+        "filename": "Technology Workbook Guided Training__st1ysvfdof.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "pressure-free-persuasion",
+    "name": "Pressure Free Persuasion",
+    "lessonCount": 27,
+    "workbookCount": 7,
+    "videoCount": 24,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Pressure Free Persuasion: Introduction & Overview",
+        "file": "01-pressure-free-persuasion-introduction-overview.md",
+        "slug": "01-pressure-free-persuasion-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "The Service-Centered Mindset: Workbook Guided Training",
+        "file": "02-the-service-centered-mindset-workbook-guided-training.md",
+        "slug": "02-the-service-centered-mindset-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Relationships: Workbook Guided Training",
+        "file": "03-relationships-workbook-guided-training.md",
+        "slug": "03-relationships-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Relationships Supplemental Training: How to Create High Level Relationships_Advanced Switchboard",
+        "file": "04-relationships-supplemental-training-how-to-create-high-level.md",
+        "slug": "04-relationships-supplemental-training-how-to-create-high-level",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Referrals: Workbook Guided Training",
+        "file": "05-referrals-workbook-guided-training.md",
+        "slug": "05-referrals-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Referrals Supplemental Training: Get Massive Referrals Using Our Email Templates",
+        "file": "06-referrals-supplemental-training-get-massive-referrals-using-.md",
+        "slug": "06-referrals-supplemental-training-get-massive-referrals-using-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Lead Generation: Workbook Guided Training",
+        "file": "07-lead-generation-workbook-guided-training.md",
+        "slug": "07-lead-generation-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Lead Generation Supplemental Training: How to Generate Revenue Using the Lead Generation Toolkit (Part 1)",
+        "file": "08-lead-generation-supplemental-training-how-to-generate-revenu.md",
+        "slug": "08-lead-generation-supplemental-training-how-to-generate-revenu",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "Lead Generation Supplemental Training: Lead Generation Toolkit Part 2 – The Scout Method",
+        "file": "09-lead-generation-supplemental-training-lead-generation-toolki.md",
+        "slug": "09-lead-generation-supplemental-training-lead-generation-toolki",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Lead Generation Supplemental Training: Lead Generation Toolkit Part 3 – The C.H.E.C.K.I.N. Method for Infinite Referrals",
+        "file": "10-lead-generation-supplemental-training-lead-generation-toolki.md",
+        "slug": "10-lead-generation-supplemental-training-lead-generation-toolki",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 11,
+        "title": "Lead Generation Supplemental Training: Free Call Funnel Deep Dive",
+        "file": "11-lead-generation-supplemental-training-free-call-funnel-deep-.md",
+        "slug": "11-lead-generation-supplemental-training-free-call-funnel-deep-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Discovery: Workbook Guided Training",
+        "file": "12-discovery-workbook-guided-training.md",
+        "slug": "12-discovery-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 13,
+        "title": "Closing: Workbook Guided Training",
+        "file": "13-closing-workbook-guided-training.md",
+        "slug": "13-closing-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Closing Supplemental Training: How to Comfortably & Casually Close a Sale",
+        "file": "14-closing-supplemental-training-how-to-comfortably-casually-cl.md",
+        "slug": "14-closing-supplemental-training-how-to-comfortably-casually-cl",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "Closing Supplemental Training: Delivering The Price in Any Presentation",
+        "file": "15-closing-supplemental-training-delivering-the-price-in-any-pr.md",
+        "slug": "15-closing-supplemental-training-delivering-the-price-in-any-pr",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 16,
+        "title": "Closing Supplemental Training: Rory's Favorite 5 Part Closing Sequence",
+        "file": "16-closing-supplemental-training-rorys-favorite-5-part-closing-.md",
+        "slug": "16-closing-supplemental-training-rorys-favorite-5-part-closing-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 17,
+        "title": "Objections: Workbook Guided Training",
+        "file": "17-objections-workbook-guided-training.md",
+        "slug": "17-objections-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 18,
+        "title": "Event Hot Seat (Relationships)",
+        "file": "18-event-hot-seat-relationships.md",
+        "slug": "18-event-hot-seat-relationships",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 19,
+        "title": "Event Hot Seat (Lead Generation)",
+        "file": "19-event-hot-seat-lead-generation.md",
+        "slug": "19-event-hot-seat-lead-generation",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 20,
+        "title": "Event Hot Seat (Discovery)",
+        "file": "20-event-hot-seat-discovery.md",
+        "slug": "20-event-hot-seat-discovery",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 21,
+        "title": "Event Hot Seat (Closing)",
+        "file": "21-event-hot-seat-closing.md",
+        "slug": "21-event-hot-seat-closing",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 22,
+        "title": "Event Hot Seat (Closing_2)",
+        "file": "22-event-hot-seat-closing_2.md",
+        "slug": "22-event-hot-seat-closing_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 23,
+        "title": "Event Hot Seat (Objections)",
+        "file": "23-event-hot-seat-objections.md",
+        "slug": "23-event-hot-seat-objections",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 24,
+        "title": "Sales Assessment Diagnostic Tree Part 1",
+        "file": "24-sales-assessment-diagnostic-tree-part-1.md",
+        "slug": "24-sales-assessment-diagnostic-tree-part-1",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 25,
+        "title": "Relationship Switchboard Technique Training",
+        "file": "25-relationship-switchboard-technique-training.md",
+        "slug": "25-relationship-switchboard-technique-training",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 26,
+        "title": "Pressure Free Persuasion Resources",
+        "file": "26-pressure-free-persuasion-resources.md",
+        "slug": "26-pressure-free-persuasion-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_3_Selling_Pressure_Free_Persuasion_Lesson_1_The_Servic_xkhrseo6sy1u.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Pressure_Free_Persuasion_Lesson_2_Relationsh_9dayt8gmt884.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Pressure_Free_Persuasion_Lesson_3_Referrals__hjja94lko5o7.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Pressure_Free_Persuasion_Lesson_4_Lead_Gener_qj1e9g30usuv.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Pressure_Free_Persuasion_Lesson_5_Discovery_kn8wgi2kfjwx.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Pressure_Free_Persuasion_Lesson_6_Closing_Wo_iab3511pn5h8.docx"
+      },
+      {
+        "filename": "Phase_3_Selling_Pressure_Free_Persuasion_Lesson_7_Objections_b563xs7b15j8.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Closing Supplemental Training Delivering The Price in Any Presentation__2j1ofn23ni.mp4"
+      },
+      {
+        "filename": "Closing Supplemental Training Rorys Favorite 5 Part Closing Sequence__m2v2z2umge.mp4"
+      },
+      {
+        "filename": "Closing Workbook Guided Training__lkqdga8di7.mp4"
+      },
+      {
+        "filename": "Discovery Workbook Guided Training__na175foz8p.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Closing_2__epqp9e7iah.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Closing__sctddek4t6.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Discovery__06tmcmp40k.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Lead Generation__qqs4kc7xd6.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Objections__hrmz15ls2p.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Relationships__tcx6nencju.mp4"
+      },
+      {
+        "filename": "Lead Generation Supplemental Training Free Call Funnel Deep Dive__ueizuco0vd.mp4"
+      },
+      {
+        "filename": "Lead Generation Supplemental Training How to Generate Revenue Using the Lead Generation To__btgf69pzf0.mp4"
+      },
+      {
+        "filename": "Lead Generation Supplemental Training Lead Generation Toolkit Part 2 The Scout Method__2sawz4sa6e.mp4"
+      },
+      {
+        "filename": "Lead Generation Supplemental Training Lead Generation Toolkit Part 3 The C.H.E.C.K.I.N. Me__0ck505eywp.mp4"
+      },
+      {
+        "filename": "Lead Generation Workbook Guided Training__0qur0hixbn.mp4"
+      },
+      {
+        "filename": "Objections Workbook Guided Training__qnxzrp3m9r.mp4"
+      },
+      {
+        "filename": "Pressure Free Persuasion Introduction Overview__2wmbbkln6u.mp4"
+      },
+      {
+        "filename": "Referrals Supplemental Training Get Massive Referrals Using Our Email Templates__2b1n82r1a0.mp4"
+      },
+      {
+        "filename": "Referrals Workbook Guided Training__yegodqxrmh.mp4"
+      },
+      {
+        "filename": "Relationship Switchboard Technique Training__srcijlygbs.mp4"
+      },
+      {
+        "filename": "Relationships Supplemental Training How to Create High Level Relationships_Advanced Switch__g3hhwmj4e6.mp4"
+      },
+      {
+        "filename": "Relationships Workbook Guided Training__kc7i3w6oa9.mp4"
+      },
+      {
+        "filename": "Sales Assessment Diagnostic Tree Part 1__wxhfqmwy9c.mp4"
+      },
+      {
+        "filename": "The Service-Centered Mindset Workbook Guided Training__h2izo3aelu.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "scale-your-sales",
+    "name": "Scale Your Sales",
+    "lessonCount": 17,
+    "workbookCount": 6,
+    "videoCount": 15,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "Scale Your Sales: Introduction & Overview",
+        "file": "01-scale-your-sales-introduction-overview.md",
+        "slug": "01-scale-your-sales-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 2,
+        "title": "Stages & Software: Workbook Guided Training",
+        "file": "02-stages-software-workbook-guided-training.md",
+        "slug": "02-stages-software-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 3,
+        "title": "Scorecard: Workbook Guided Training",
+        "file": "03-scorecard-workbook-guided-training.md",
+        "slug": "03-scorecard-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 4,
+        "title": "Schedule: Workbook Guided Training",
+        "file": "04-schedule-workbook-guided-training.md",
+        "slug": "04-schedule-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 5,
+        "title": "Scripts: Workbook Guided Training",
+        "file": "05-scripts-workbook-guided-training.md",
+        "slug": "05-scripts-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Salary & Sourcing: Workbook Guided Training",
+        "file": "06-salary-sourcing-workbook-guided-training.md",
+        "slug": "06-salary-sourcing-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 7,
+        "title": "Salary & Sourcing: Workbook Guided Training_2",
+        "file": "07-salary-sourcing-workbook-guided-training_2.md",
+        "slug": "07-salary-sourcing-workbook-guided-training_2",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 8,
+        "title": "Support: Workbook Guided Training",
+        "file": "08-support-workbook-guided-training.md",
+        "slug": "08-support-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 1
+      },
+      {
+        "index": 9,
+        "title": "Event Hot Seat (Stages & Software)",
+        "file": "09-event-hot-seat-stages-software.md",
+        "slug": "09-event-hot-seat-stages-software",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 10,
+        "title": "Event Hot Seat (Scorecard)",
+        "file": "10-event-hot-seat-scorecard.md",
+        "slug": "10-event-hot-seat-scorecard",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 11,
+        "title": "Event Hot Seat (Schedule)",
+        "file": "11-event-hot-seat-schedule.md",
+        "slug": "11-event-hot-seat-schedule",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 12,
+        "title": "Event Hot Seat (Scripts)",
+        "file": "12-event-hot-seat-scripts.md",
+        "slug": "12-event-hot-seat-scripts",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 13,
+        "title": "Event Hot Seat (Salary & Sourcing)",
+        "file": "13-event-hot-seat-salary-sourcing.md",
+        "slug": "13-event-hot-seat-salary-sourcing",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 14,
+        "title": "Event Hot Seat (Support)",
+        "file": "14-event-hot-seat-support.md",
+        "slug": "14-event-hot-seat-support",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 15,
+        "title": "BBG Sales Dashboard",
+        "file": "15-bbg-sales-dashboard.md",
+        "slug": "15-bbg-sales-dashboard",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 16,
+        "title": "Scale Your Sales Resources",
+        "file": "16-scale-your-sales-resources.md",
+        "slug": "16-scale-your-sales-resources",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_4_Scaling_Scale_Your_Sales_Lesson_1_Stages_Software__fpx3udnq60k7.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Scale_Your_Sales_Lesson_2_Scorecard_Workbook_eq7poq7p3qsa.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Scale_Your_Sales_Lesson_3_Schedule_Workbook__s669xikbmwk2.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Scale_Your_Sales_Lesson_4_Scripts_Workbook_G_1all5hg7hpy9.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Scale_Your_Sales_Lesson_5_Salary_Sourcing__5iacp9o7q18s.docx"
+      },
+      {
+        "filename": "Phase_4_Scaling_Scale_Your_Sales_Lesson_6_Support_Workbook_G_vcdxllhkc5ax.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "BBG Sales Dashboard__khe8ap46mg.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Salary Sourcing__3p04tf2cey.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Schedule__y957c3t082.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Scorecard__7rwb8020gh.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Scripts__32qk0h08vh.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Stages Software__6gy3ndrgq7.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Support__5gw3229jer.mp4"
+      },
+      {
+        "filename": "Salary Sourcing Workbook Guided Training_2__uug0l1ymwl.mp4"
+      },
+      {
+        "filename": "Salary Sourcing Workbook Guided Training__46nmm0njh7.mp4"
+      },
+      {
+        "filename": "Scale Your Sales Introduction Overview__slco6q3ct2.mp4"
+      },
+      {
+        "filename": "Schedule Workbook Guided Training__8b3ypl8bpp.mp4"
+      },
+      {
+        "filename": "Scorecard Workbook Guided Training__8jp4bc1yvn.mp4"
+      },
+      {
+        "filename": "Scripts Workbook Guided Training__da7ybw9fyf.mp4"
+      },
+      {
+        "filename": "Stages Software Workbook Guided Training__1ve8ruf43h.mp4"
+      },
+      {
+        "filename": "Support Workbook Guided Training__esxfha6sz5.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "virtual-training-library",
+    "name": "Virtual Training Library",
+    "lessonCount": 101,
+    "workbookCount": 0,
+    "videoCount": 77,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "ai expert qa 6162026",
+        "file": "01-ai-expert-qa-6162026.md",
+        "slug": "01-ai-expert-qa-6162026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 2,
+        "title": "curriculum qa 6102026",
+        "file": "02-curriculum-qa-6102026.md",
+        "slug": "02-curriculum-qa-6102026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 3,
+        "title": "business model matrix professional services 6102026",
+        "file": "03-business-model-matrix-professional-services-6102026.md",
+        "slug": "03-business-model-matrix-professional-services-6102026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 4,
+        "title": "curriculum qa 632026",
+        "file": "04-curriculum-qa-632026.md",
+        "slug": "04-curriculum-qa-632026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 5,
+        "title": "curriculum qa 5272026",
+        "file": "05-curriculum-qa-5272026.md",
+        "slug": "05-curriculum-qa-5272026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 6,
+        "title": "ai expert qa 5262026",
+        "file": "06-ai-expert-qa-5262026.md",
+        "slug": "06-ai-expert-qa-5262026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 7,
+        "title": "when to go full time on your personal brand 5262026",
+        "file": "07-when-to-go-full-time-on-your-personal-brand-5262026.md",
+        "slug": "07-when-to-go-full-time-on-your-personal-brand-5262026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 8,
+        "title": "speaker showcase april 2026 lauren hasson",
+        "file": "08-speaker-showcase-april-2026-lauren-hasson.md",
+        "slug": "08-speaker-showcase-april-2026-lauren-hasson",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 9,
+        "title": "speaker showcase april 2026 maggie harlow",
+        "file": "09-speaker-showcase-april-2026-maggie-harlow.md",
+        "slug": "09-speaker-showcase-april-2026-maggie-harlow",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 10,
+        "title": "speaker showcase april 2026 elliot sawyer",
+        "file": "10-speaker-showcase-april-2026-elliot-sawyer.md",
+        "slug": "10-speaker-showcase-april-2026-elliot-sawyer",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 11,
+        "title": "bbg bots price anchor bot demo",
+        "file": "100-bbg-bots-price-anchor-bot-demo.md",
+        "slug": "100-bbg-bots-price-anchor-bot-demo",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 12,
+        "title": "speaker showcase april 2026 rachel freyman",
+        "file": "11-speaker-showcase-april-2026-rachel-freyman.md",
+        "slug": "11-speaker-showcase-april-2026-rachel-freyman",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 13,
+        "title": "speaker showcase april 2026 anne robie",
+        "file": "12-speaker-showcase-april-2026-anne-robie.md",
+        "slug": "12-speaker-showcase-april-2026-anne-robie",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 14,
+        "title": "speaker showcase april 2026 carlos figueroa",
+        "file": "13-speaker-showcase-april-2026-carlos-figueroa.md",
+        "slug": "13-speaker-showcase-april-2026-carlos-figueroa",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 15,
+        "title": "speaker showcase april 2026 jenn donahue",
+        "file": "14-speaker-showcase-april-2026-jenn-donahue.md",
+        "slug": "14-speaker-showcase-april-2026-jenn-donahue",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 16,
+        "title": "speaker showcase april 2026 sheripha morrison bailey",
+        "file": "15-speaker-showcase-april-2026-sheripha-morrison-bailey.md",
+        "slug": "15-speaker-showcase-april-2026-sheripha-morrison-bailey",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 17,
+        "title": "speaker showcase april 2026 mark ruegg",
+        "file": "16-speaker-showcase-april-2026-mark-ruegg.md",
+        "slug": "16-speaker-showcase-april-2026-mark-ruegg",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 18,
+        "title": "speaker showcase april 2026 leigh leigh kossman",
+        "file": "17-speaker-showcase-april-2026-leigh-leigh-kossman.md",
+        "slug": "17-speaker-showcase-april-2026-leigh-leigh-kossman",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 19,
+        "title": "speaker showcase april 2026 stephen hauschka",
+        "file": "18-speaker-showcase-april-2026-stephen-hauschka.md",
+        "slug": "18-speaker-showcase-april-2026-stephen-hauschka",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 20,
+        "title": "speaker showcase april 2026 michelle machado",
+        "file": "19-speaker-showcase-april-2026-michelle-machado.md",
+        "slug": "19-speaker-showcase-april-2026-michelle-machado",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 21,
+        "title": "speaker showcase april 2026 katherine eitel belt",
+        "file": "20-speaker-showcase-april-2026-katherine-eitel-belt.md",
+        "slug": "20-speaker-showcase-april-2026-katherine-eitel-belt",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 22,
+        "title": "speaker showcase april 2026 jeff luther",
+        "file": "21-speaker-showcase-april-2026-jeff-luther.md",
+        "slug": "21-speaker-showcase-april-2026-jeff-luther",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 23,
+        "title": "speaker showcase april 2026 theo boyd",
+        "file": "22-speaker-showcase-april-2026-theo-boyd.md",
+        "slug": "22-speaker-showcase-april-2026-theo-boyd",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 24,
+        "title": "speaker showcase april 2026 leslee owen",
+        "file": "23-speaker-showcase-april-2026-leslee-owen.md",
+        "slug": "23-speaker-showcase-april-2026-leslee-owen",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 25,
+        "title": "speaker showcase april 2026 liz landry",
+        "file": "24-speaker-showcase-april-2026-liz-landry.md",
+        "slug": "24-speaker-showcase-april-2026-liz-landry",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 26,
+        "title": "speaker showcase april 2026 jeremy legg",
+        "file": "25-speaker-showcase-april-2026-jeremy-legg.md",
+        "slug": "25-speaker-showcase-april-2026-jeremy-legg",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 27,
+        "title": "curriculum qa 5122026",
+        "file": "26-curriculum-qa-5122026.md",
+        "slug": "26-curriculum-qa-5122026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 28,
+        "title": "high earner habits part 2 5122026",
+        "file": "27-high-earner-habits-part-2-5122026.md",
+        "slug": "27-high-earner-habits-part-2-5122026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 29,
+        "title": "curriculum qa 5620206",
+        "file": "28-curriculum-qa-5620206.md",
+        "slug": "28-curriculum-qa-5620206",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 30,
+        "title": "high earner habits part 1 4292026",
+        "file": "29-high-earner-habits-part-1-4292026.md",
+        "slug": "29-high-earner-habits-part-1-4292026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 31,
+        "title": "curriculum qa 4272026",
+        "file": "30-curriculum-qa-4272026.md",
+        "slug": "30-curriculum-qa-4272026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 32,
+        "title": "curriculum qa 4142026",
+        "file": "31-curriculum-qa-4142026.md",
+        "slug": "31-curriculum-qa-4142026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 33,
+        "title": "introducing the success tracker accountability tool 4162026",
+        "file": "32-introducing-the-success-tracker-accountability-tool-4162026.md",
+        "slug": "32-introducing-the-success-tracker-accountability-tool-4162026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 34,
+        "title": "lead conversion strategies with the 1_1_1_1 method 412026",
+        "file": "33-lead-conversion-strategies-with-the-1_1_1_1-method-412026.md",
+        "slug": "33-lead-conversion-strategies-with-the-1_1_1_1-method-412026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 35,
+        "title": "curriculum qa 412026",
+        "file": "34-curriculum-qa-412026.md",
+        "slug": "34-curriculum-qa-412026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 36,
+        "title": "ai expert qa 3192026",
+        "file": "35-ai-expert-qa-3192026.md",
+        "slug": "35-ai-expert-qa-3192026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 37,
+        "title": "tax tips pt 2 3182026",
+        "file": "36-tax-tips-pt-2-3182026.md",
+        "slug": "36-tax-tips-pt-2-3182026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 38,
+        "title": "curriculum qa 342026",
+        "file": "37-curriculum-qa-342026.md",
+        "slug": "37-curriculum-qa-342026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 39,
+        "title": "tax tips 332026",
+        "file": "38-tax-tips-332026.md",
+        "slug": "38-tax-tips-332026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 40,
+        "title": "guest expert member meet up amy ogden the top 10 mistakes br",
+        "file": "39-guest-expert-member-meet-up-amy-ogden-the-top-10-mistakes-br.md",
+        "slug": "39-guest-expert-member-meet-up-amy-ogden-the-top-10-mistakes-br",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 41,
+        "title": "curriculum qa 2232026",
+        "file": "40-curriculum-qa-2232026.md",
+        "slug": "40-curriculum-qa-2232026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 42,
+        "title": "ai expert qa 2232026",
+        "file": "41-ai-expert-qa-2232026.md",
+        "slug": "41-ai-expert-qa-2232026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 43,
+        "title": "productivity secrets of super producers 2192026",
+        "file": "42-productivity-secrets-of-super-producers-2192026.md",
+        "slug": "42-productivity-secrets-of-super-producers-2192026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 44,
+        "title": "how to multiply time 232026",
+        "file": "43-how-to-multiply-time-232026.md",
+        "slug": "43-how-to-multiply-time-232026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 45,
+        "title": "curriculum qa 2102026",
+        "file": "44-curriculum-qa-2102026.md",
+        "slug": "44-curriculum-qa-2102026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 46,
+        "title": "curriculum qa 242026",
+        "file": "45-curriculum-qa-242026.md",
+        "slug": "45-curriculum-qa-242026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 47,
+        "title": "curriculum qa 1262026",
+        "file": "46-curriculum-qa-1262026.md",
+        "slug": "46-curriculum-qa-1262026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 48,
+        "title": "the neuroscience of breaking through limiting beliefs 119202",
+        "file": "47-the-neuroscience-of-breaking-through-limiting-beliefs-119202.md",
+        "slug": "47-the-neuroscience-of-breaking-through-limiting-beliefs-119202",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 49,
+        "title": "curriculum qa 1152026",
+        "file": "48-curriculum-qa-1152026.md",
+        "slug": "48-curriculum-qa-1152026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 50,
+        "title": "curriculum qa 1132026",
+        "file": "49-curriculum-qa-1132026.md",
+        "slug": "49-curriculum-qa-1132026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 51,
+        "title": "tracey abbott member showcase october 2025",
+        "file": "50-tracey-abbott-member-showcase-october-2025.md",
+        "slug": "50-tracey-abbott-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 52,
+        "title": "tim williams member showcase october 2025",
+        "file": "51-tim-williams-member-showcase-october-2025.md",
+        "slug": "51-tim-williams-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 53,
+        "title": "tavia gilbert member showcase october 2025",
+        "file": "52-tavia-gilbert-member-showcase-october-2025.md",
+        "slug": "52-tavia-gilbert-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 54,
+        "title": "susie tomenchok member showcase october 2025",
+        "file": "53-susie-tomenchok-member-showcase-october-2025.md",
+        "slug": "53-susie-tomenchok-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 55,
+        "title": "shannon polson member showcase october 2025",
+        "file": "54-shannon-polson-member-showcase-october-2025.md",
+        "slug": "54-shannon-polson-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 56,
+        "title": "sarah aviram member showcase october 2025",
+        "file": "55-sarah-aviram-member-showcase-october-2025.md",
+        "slug": "55-sarah-aviram-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 57,
+        "title": "pam nemec member showcase october 2025",
+        "file": "56-pam-nemec-member-showcase-october-2025.md",
+        "slug": "56-pam-nemec-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 58,
+        "title": "lamia katbi member showcase october 2025",
+        "file": "57-lamia-katbi-member-showcase-october-2025.md",
+        "slug": "57-lamia-katbi-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 59,
+        "title": "ken proctor member showcase october 2025",
+        "file": "58-ken-proctor-member-showcase-october-2025.md",
+        "slug": "58-ken-proctor-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 60,
+        "title": "dr stacy jagger member showcase october 2025",
+        "file": "59-dr-stacy-jagger-member-showcase-october-2025.md",
+        "slug": "59-dr-stacy-jagger-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 61,
+        "title": "don rauzelle member showcase october 2025",
+        "file": "60-don-rauzelle-member-showcase-october-2025.md",
+        "slug": "60-don-rauzelle-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 62,
+        "title": "david lawhorn member showcase october 2025",
+        "file": "61-david-lawhorn-member-showcase-october-2025.md",
+        "slug": "61-david-lawhorn-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 63,
+        "title": "david bereit member showcase october 2025",
+        "file": "62-david-bereit-member-showcase-october-2025.md",
+        "slug": "62-david-bereit-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 64,
+        "title": "bernie tammy miller member showcase october 2025",
+        "file": "63-bernie-tammy-miller-member-showcase-october-2025.md",
+        "slug": "63-bernie-tammy-miller-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 65,
+        "title": "april diaz member showcase october 2025",
+        "file": "64-april-diaz-member-showcase-october-2025.md",
+        "slug": "64-april-diaz-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 66,
+        "title": "anne ribley member showcase october 2025",
+        "file": "65-anne-ribley-member-showcase-october-2025.md",
+        "slug": "65-anne-ribley-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 67,
+        "title": "andrea pollack member showcase october 2025",
+        "file": "66-andrea-pollack-member-showcase-october-2025.md",
+        "slug": "66-andrea-pollack-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 68,
+        "title": "allie trowbridge member showcase october 2025",
+        "file": "67-allie-trowbridge-member-showcase-october-2025.md",
+        "slug": "67-allie-trowbridge-member-showcase-october-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 69,
+        "title": "scharrell jackson member showcase march 2025",
+        "file": "68-scharrell-jackson-member-showcase-march-2025.md",
+        "slug": "68-scharrell-jackson-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 70,
+        "title": "rob ferre member showcase march 2025",
+        "file": "69-rob-ferre-member-showcase-march-2025.md",
+        "slug": "69-rob-ferre-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 71,
+        "title": "pam leinmiller member showcase march 2025",
+        "file": "70-pam-leinmiller-member-showcase-march-2025.md",
+        "slug": "70-pam-leinmiller-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 72,
+        "title": "mary alice mina member showcase march 2025",
+        "file": "71-mary-alice-mina-member-showcase-march-2025.md",
+        "slug": "71-mary-alice-mina-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 73,
+        "title": "lacey newman member showcase march 2025",
+        "file": "72-lacey-newman-member-showcase-march-2025.md",
+        "slug": "72-lacey-newman-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 74,
+        "title": "karen mayer cunningham member showcase march 2025",
+        "file": "73-karen-mayer-cunningham-member-showcase-march-2025.md",
+        "slug": "73-karen-mayer-cunningham-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 75,
+        "title": "jesse trujillo member showcase march 2025",
+        "file": "74-jesse-trujillo-member-showcase-march-2025.md",
+        "slug": "74-jesse-trujillo-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 76,
+        "title": "jess goldberg member showcase march 2025",
+        "file": "75-jess-goldberg-member-showcase-march-2025.md",
+        "slug": "75-jess-goldberg-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 77,
+        "title": "ed howie member showcase march 2025",
+        "file": "76-ed-howie-member-showcase-march-2025.md",
+        "slug": "76-ed-howie-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 78,
+        "title": "dr betsy guerra member showcase march 2025",
+        "file": "77-dr-betsy-guerra-member-showcase-march-2025.md",
+        "slug": "77-dr-betsy-guerra-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 79,
+        "title": "cherian koshy member showcase march 2025",
+        "file": "78-cherian-koshy-member-showcase-march-2025.md",
+        "slug": "78-cherian-koshy-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 80,
+        "title": "barb betts member showcase march 2025",
+        "file": "79-barb-betts-member-showcase-march-2025.md",
+        "slug": "79-barb-betts-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 81,
+        "title": "julia myers member showcase march 2025",
+        "file": "80-julia-myers-member-showcase-march-2025.md",
+        "slug": "80-julia-myers-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 82,
+        "title": "john ulsh member showcase march 2025",
+        "file": "81-john-ulsh-member-showcase-march-2025.md",
+        "slug": "81-john-ulsh-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 83,
+        "title": "hilary billings member showcase march 2025",
+        "file": "82-hilary-billings-member-showcase-march-2025.md",
+        "slug": "82-hilary-billings-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 84,
+        "title": "eva wisnik member showcase march 2025",
+        "file": "83-eva-wisnik-member-showcase-march-2025.md",
+        "slug": "83-eva-wisnik-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 85,
+        "title": "danielle sebastian member showcase march 2025",
+        "file": "84-danielle-sebastian-member-showcase-march-2025.md",
+        "slug": "84-danielle-sebastian-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 86,
+        "title": "crista cowan member showcase march 2025",
+        "file": "85-crista-cowan-member-showcase-march-2025.md",
+        "slug": "85-crista-cowan-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 87,
+        "title": "brian covey member showcase march 2025",
+        "file": "86-brian-covey-member-showcase-march-2025.md",
+        "slug": "86-brian-covey-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 88,
+        "title": "amani roberts member showcase march 2025",
+        "file": "87-amani-roberts-member-showcase-march-2025.md",
+        "slug": "87-amani-roberts-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 89,
+        "title": "steve argue member showcase march 2025",
+        "file": "88-steve-argue-member-showcase-march-2025.md",
+        "slug": "88-steve-argue-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 90,
+        "title": "rick torrison member showcase march 2025",
+        "file": "89-rick-torrison-member-showcase-march-2025.md",
+        "slug": "89-rick-torrison-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 91,
+        "title": "mike goldman member showcase march 2025",
+        "file": "90-mike-goldman-member-showcase-march-2025.md",
+        "slug": "90-mike-goldman-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 92,
+        "title": "kimberly brown member showcase march 2025",
+        "file": "91-kimberly-brown-member-showcase-march-2025.md",
+        "slug": "91-kimberly-brown-member-showcase-march-2025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 93,
+        "title": "november 2024 member showcase day 2 full recording",
+        "file": "92-november-2024-member-showcase-day-2-full-recording.md",
+        "slug": "92-november-2024-member-showcase-day-2-full-recording",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 94,
+        "title": "november 2024 member showcase day 1 full recording",
+        "file": "93-november-2024-member-showcase-day-1-full-recording.md",
+        "slug": "93-november-2024-member-showcase-day-1-full-recording",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 95,
+        "title": "the secret practice of ultra performers 172026",
+        "file": "94-the-secret-practice-of-ultra-performers-172026.md",
+        "slug": "94-the-secret-practice-of-ultra-performers-172026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 96,
+        "title": "curriculum qa 172026",
+        "file": "95-curriculum-qa-172026.md",
+        "slug": "95-curriculum-qa-172026",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 97,
+        "title": "curriculum qa 12302025",
+        "file": "96-curriculum-qa-12302025.md",
+        "slug": "96-curriculum-qa-12302025",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 98,
+        "title": "how to build a speaking career in 2 years or less",
+        "file": "97-how-to-build-a-speaking-career-in-2-years-or-less.md",
+        "slug": "97-how-to-build-a-speaking-career-in-2-years-or-less",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 99,
+        "title": "bbg bots sales script bot demo",
+        "file": "98-bbg-bots-sales-script-bot-demo.md",
+        "slug": "98-bbg-bots-sales-script-bot-demo",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 100,
+        "title": "bbg bots referral template bot demo",
+        "file": "99-bbg-bots-referral-template-bot-demo.md",
+        "slug": "99-bbg-bots-referral-template-bot-demo",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 101,
+        "title": "overview",
+        "file": "overview.md",
+        "slug": "overview",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [],
+    "videos": [
+      {
+        "filename": "AI Expert QA 2232026__s26b6pnxnz.mp4"
+      },
+      {
+        "filename": "AI Expert QA 3192026__drwvw7gapt.mp4"
+      },
+      {
+        "filename": "AI Expert QA 5262026__glnsj26uc8.mp4"
+      },
+      {
+        "filename": "AI Expert QA 6162026__hx3sgz2eod.mp4"
+      },
+      {
+        "filename": "Allie Trowbridge Member Showcase October 2025__xao9qti49a.mp4"
+      },
+      {
+        "filename": "Amani Roberts Member Showcase March 2025__gn7mpnklvm.mp4"
+      },
+      {
+        "filename": "Andrea Pollack Member Showcase October 2025__9hxuuacwf6.mp4"
+      },
+      {
+        "filename": "Anne Ribley Member Showcase October 2025__t9goeom567.mp4"
+      },
+      {
+        "filename": "April Diaz Member Showcase October 2025__sxmr345b9v.mp4"
+      },
+      {
+        "filename": "BBG Bots Price Anchor Bot Demo__p6tq9hlze5.mp4"
+      },
+      {
+        "filename": "BBG Bots Referral Template Bot Demo__exdxae2ajv.mp4"
+      },
+      {
+        "filename": "BBG Bots Sales Script Bot Demo__isnoxqyvzz.mp4"
+      },
+      {
+        "filename": "Barb Betts Member Showcase March 2025__pi6qwk10zb.mp4"
+      },
+      {
+        "filename": "Bernie Tammy Miller Member Showcase October 2025__5p1it9sbm6.mp4"
+      },
+      {
+        "filename": "Brian Covey Member Showcase March 2025__ahb50jiewd.mp4"
+      },
+      {
+        "filename": "Cherian Koshy Member Showcase March 2025__5kjp0p9i3e.mp4"
+      },
+      {
+        "filename": "Crista Cowan Member Showcase March 2025__k2i2fyz0y4.mp4"
+      },
+      {
+        "filename": "Curriculum QA 1132026__pz18342xip.mp4"
+      },
+      {
+        "filename": "Curriculum QA 1152026__1ozicynxss.mp4"
+      },
+      {
+        "filename": "Curriculum QA 12302025__22kcrypqyg.mp4"
+      },
+      {
+        "filename": "Curriculum QA 1262026__dt5z27rl3f.mp4"
+      },
+      {
+        "filename": "Curriculum QA 172026__5ftwgltjyb.mp4"
+      },
+      {
+        "filename": "Curriculum QA 2102026__srfyyp5skg.mp4"
+      },
+      {
+        "filename": "Curriculum QA 2232026__0bly0oyen5.mp4"
+      },
+      {
+        "filename": "Curriculum QA 242026__m4d06b72mn.mp4"
+      },
+      {
+        "filename": "Curriculum QA 342026__vwqf8bim5w.mp4"
+      },
+      {
+        "filename": "Curriculum QA 412026__tim7rg1z9x.mp4"
+      },
+      {
+        "filename": "Curriculum QA 4142026__k0ajxx5l9n.mp4"
+      },
+      {
+        "filename": "Curriculum QA 4272026__lh7vejtu4t.mp4"
+      },
+      {
+        "filename": "Curriculum QA 5122026__1ibx1dz3fm.mp4"
+      },
+      {
+        "filename": "Curriculum QA 5272026__4ljlr2gb7i.mp4"
+      },
+      {
+        "filename": "Curriculum QA 5620206__8f6txddnh0.mp4"
+      },
+      {
+        "filename": "Curriculum QA 6102026__v6kfo60b6o.mp4"
+      },
+      {
+        "filename": "Curriculum QA 632026__h83kzzmypz.mp4"
+      },
+      {
+        "filename": "Danielle Sebastian Member Showcase March 2025__fuc686eysc.mp4"
+      },
+      {
+        "filename": "David Bereit Member Showcase October 2025__t1eepptlwm.mp4"
+      },
+      {
+        "filename": "David Lawhorn Member Showcase October 2025__27a1s4jncl.mp4"
+      },
+      {
+        "filename": "Don Rauzelle Member Showcase October 2025__s07zir4hiv.mp4"
+      },
+      {
+        "filename": "Dr. Betsy Guerra Member Showcase March 2025__4y6ajb4rnn.mp4"
+      },
+      {
+        "filename": "Dr. Stacy Jagger Member Showcase October 2025__t1v22szsal.mp4"
+      },
+      {
+        "filename": "Ed Howie Member Showcase March 2025__kxf6pimzqy.mp4"
+      },
+      {
+        "filename": "Eva Wisnik Member Showcase March 2025__ew21ouwwm2.mp4"
+      },
+      {
+        "filename": "Guest Expert Member Meet Up Amy Ogden The Top 10 Mistakes Brands Make When Hiring Agencies__nc9wi565nj.mp4"
+      },
+      {
+        "filename": "Hilary Billings Member Showcase March 2025__tli4ppo8uu.mp4"
+      },
+      {
+        "filename": "How to Build a Speaking Career in 2 years or Less__1r31q86clq.mp4"
+      },
+      {
+        "filename": "How to Multiply Time 232026__7jyj2ztvhf.mp4"
+      },
+      {
+        "filename": "Introducing the Success Tracker Accountability Tool 4162026__rl45tg8cuc.mp4"
+      },
+      {
+        "filename": "Jess Goldberg Member Showcase March 2025__mdmh0dsgkw.mp4"
+      },
+      {
+        "filename": "Jesse Trujillo Member Showcase March 2025__a0jlyac9t0.mp4"
+      },
+      {
+        "filename": "John Ulsh Member Showcase March 2025__sllv1ld3m0.mp4"
+      },
+      {
+        "filename": "Julia Myers Member Showcase March 2025__kmz8aldwd6.mp4"
+      },
+      {
+        "filename": "Karen Mayer-Cunningham Member Showcase March 2025__l836p85w92.mp4"
+      },
+      {
+        "filename": "Ken Proctor Member Showcase October 2025__cj5m78zfdf.mp4"
+      },
+      {
+        "filename": "Kimberly Brown Member Showcase March 2025__3yihppp4av.mp4"
+      },
+      {
+        "filename": "Lacey Newman Member Showcase March 2025__unitfumnrf.mp4"
+      },
+      {
+        "filename": "Lamia Katbi Member Showcase October 2025__nweelqwl4g.mp4"
+      },
+      {
+        "filename": "Lead Conversion Strategies With the 1_1_1_1 Method 412026__pvublqx1rd.mp4"
+      },
+      {
+        "filename": "Mary Alice Mina Member Showcase March 2025__krdp4xc8cn.mp4"
+      },
+      {
+        "filename": "Mike Goldman Member Showcase March 2025__gw35892rkq.mp4"
+      },
+      {
+        "filename": "November 2024 Member Showcase Day 1 Full Recording__dti20ijv7m.mp4"
+      },
+      {
+        "filename": "November 2024 Member Showcase Day 2 Full Recording__l0eg1ibnbc.mp4"
+      },
+      {
+        "filename": "Pam Leinmiller Member Showcase March 2025__65iupclkp7.mp4"
+      },
+      {
+        "filename": "Pam Nemec Member Showcase October 2025__z3jgbz3rbq.mp4"
+      },
+      {
+        "filename": "Productivity Secrets of Super Producers 2192026__iupznej4fu.mp4"
+      },
+      {
+        "filename": "Rick Torrison Member Showcase March 2025__pcie1hk9d6.mp4"
+      },
+      {
+        "filename": "Rob Ferre Member Showcase March 2025__blnz820io7.mp4"
+      },
+      {
+        "filename": "Sarah Aviram Member Showcase October 2025__kwjlh7yu3a.mp4"
+      },
+      {
+        "filename": "Scharrell Jackson Member Showcase March 2025__vr1ahi04g9.mp4"
+      },
+      {
+        "filename": "Shannon Polson Member Showcase October 2025__74nz53kwza.mp4"
+      },
+      {
+        "filename": "Steve Argue Member Showcase March 2025__e37v0hetg7.mp4"
+      },
+      {
+        "filename": "Susie Tomenchok Member Showcase October 2025__7vdi1kpt3y.mp4"
+      },
+      {
+        "filename": "Tavia Gilbert Member Showcase October 2025__lyscr05z97.mp4"
+      },
+      {
+        "filename": "Tax Tips 332026__9g26jn28hs.mp4"
+      },
+      {
+        "filename": "Tax Tips Pt. 2 3182026__4e4yt8e5en.mp4"
+      },
+      {
+        "filename": "The Secret Practice of Ultra-Performers 172026__yowiajqaud.mp4"
+      },
+      {
+        "filename": "Tim Williams Member Showcase October 2025__wqw5g2sm83.mp4"
+      },
+      {
+        "filename": "Tracey Abbott Member Showcase October 2025__3ewscxdbnt.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "world-class-presentation-craft",
+    "name": "World Class Presentation Craft",
+    "lessonCount": 27,
+    "workbookCount": 3,
+    "videoCount": 25,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "World Class Presentation Craft: Introduction & Overview",
+        "file": "01-world-class-presentation-craft-introduction-overview.md",
+        "slug": "01-world-class-presentation-craft-introduction-overview",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 2,
+        "title": "Message & Outline: Workbook Guided Training",
+        "file": "02-message-outline-workbook-guided-training.md",
+        "slug": "02-message-outline-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 0
+      },
+      {
+        "index": 3,
+        "title": "Message & Outline Supplemental Training: The Biggest Secret to Becoming a Sought-After Speaker",
+        "file": "03-message-outline-supplemental-training-the-biggest-secret-to-.md",
+        "slug": "03-message-outline-supplemental-training-the-biggest-secret-to-",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 4,
+        "title": "Message & Outline Supplemental Training: Why You Should Save the Best Content for First",
+        "file": "04-message-outline-supplemental-training-why-you-should-save-th.md",
+        "slug": "04-message-outline-supplemental-training-why-you-should-save-th",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 5,
+        "title": "Message & Outline Supplemental Training: Aligning Your BPS and Your Captivating Content",
+        "file": "05-message-outline-supplemental-training-aligning-your-bps-and-.md",
+        "slug": "05-message-outline-supplemental-training-aligning-your-bps-and-",
+        "downloadCount": 0,
+        "videoCount": 1
+      },
+      {
+        "index": 6,
+        "title": "Message & Outline Supplemental Training: 7 Keys to Nailing Your Presentation",
+        "file": "06-message-outline-supplemental-training-7-keys-to-nailing-your.md",
+        "slug": "06-message-outline-supplemental-training-7-keys-to-nailing-your",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 7,
+        "title": "Vulnerability (Storytelling): Workbook Guided Training",
+        "file": "07-vulnerability-storytelling-workbook-guided-training.md",
+        "slug": "07-vulnerability-storytelling-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 0
+      },
+      {
+        "index": 8,
+        "title": "Vulnerability (Storytelling) Supplemental Training: How to Create Compelling Stories",
+        "file": "08-vulnerability-storytelling-supplemental-training-how-to-crea.md",
+        "slug": "08-vulnerability-storytelling-supplemental-training-how-to-crea",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 9,
+        "title": "Education (Frameworks): Workbook Guided Training",
+        "file": "09-education-frameworks-workbook-guided-training.md",
+        "slug": "09-education-frameworks-workbook-guided-training",
+        "downloadCount": 1,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [
+      {
+        "filename": "Phase_1_Branding_World_Class_Presentation_Craft_Lesson_1Mess_ec5tz74zod6m.docx"
+      },
+      {
+        "filename": "Phase_1_Branding_World_Class_Presentation_Craft_Lesson_2_Vul_bfi0n01ayp9x.docx"
+      },
+      {
+        "filename": "Phase_1_Branding_World_Class_Presentation_Craft_Lesson_3_Ed_dgeej95q59ut.docx"
+      }
+    ],
+    "videos": [
+      {
+        "filename": "Education Frameworks Workbook Guided Training__bu2mx0g40x.mp4"
+      },
+      {
+        "filename": "Entertainment Supplemental Training How to Entertain Your Audience__bw140ffx2t.mp4"
+      },
+      {
+        "filename": "Entertainment Supplemental Training How to Get a Standing Ovation__lrqq8u3j34.mp4"
+      },
+      {
+        "filename": "Entertainment Workbook Guided Training__nwc2djncjl.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Education - Frameworks__w1meq9khyi.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Entertainment__u8kdhy7k3k.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Humor__uhdle487rw.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Message Outline__1mu0dkte4p.mp4"
+      },
+      {
+        "filename": "Event Hot Seat Vulnerability - Storytelling__svsgumhmbi.mp4"
+      },
+      {
+        "filename": "How to Multiply Your Time Virtual Keynote__7qak1u9w59.mp4"
+      },
+      {
+        "filename": "Humor Supplemental Training How to Make Your Audience Laugh__s2q0861yzg.mp4"
+      },
+      {
+        "filename": "Humor Supplemental Training Why Laughter in Presentation Matters__mliv98p0w1.mp4"
+      },
+      {
+        "filename": "Humor Workbook Guided Training__as6le2yazj.mp4"
+      },
+      {
+        "filename": "Magic Customization Workbook Guided Training__p31e7b3gzn.mp4"
+      },
+      {
+        "filename": "Message Outline Supplemental Training 7 Keys to Nailing Your Presentation__zu9kq96vww.mp4"
+      },
+      {
+        "filename": "Message Outline Supplemental Training Aligning Your BPS and Your Captivating Content__n5y4cd0ecs.mp4"
+      },
+      {
+        "filename": "Message Outline Supplemental Training The Biggest Secret to Becoming a Sought-After Speake__1rf6yimr71.mp4"
+      },
+      {
+        "filename": "Message Outline Supplemental Training Why You Should Save the Best Content for First__bygb0o6658.mp4"
+      },
+      {
+        "filename": "Message Outline Workbook Guided Training__9g1job2h21.mp4"
+      },
+      {
+        "filename": "Take the Stairs__wxwu3du093.mp4"
+      },
+      {
+        "filename": "Tease Selling Supplemental Training How to Authentically Sell From The Stage__jialp67ue7.mp4"
+      },
+      {
+        "filename": "Tease Selling Workbook Guided Training__onaw4zaavs.mp4"
+      },
+      {
+        "filename": "Vulnerability Storytelling Supplemental Training How to Create Compelling Stories__vaoqnb081g.mp4"
+      },
+      {
+        "filename": "Vulnerability Storytelling Workbook Guided Training__sl3jf0ppe9.mp4"
+      },
+      {
+        "filename": "World Class Presentation Craft Introduction Overview__ui9d9wgo2d.mp4"
+      }
+    ]
+  },
+  {
+    "slug": "your-journey",
+    "name": "Courses by Journey",
+    "lessonCount": 3,
+    "workbookCount": 0,
+    "videoCount": 0,
+    "lessons": [
+      {
+        "index": 1,
+        "title": "our phases",
+        "file": "01-our-phases.md",
+        "slug": "01-our-phases",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 2,
+        "title": "customer journey explainer",
+        "file": "02-customer-journey-explainer.md",
+        "slug": "02-customer-journey-explainer",
+        "downloadCount": 0,
+        "videoCount": 0
+      },
+      {
+        "index": 3,
+        "title": "overview",
+        "file": "overview.md",
+        "slug": "overview",
+        "downloadCount": 0,
+        "videoCount": 0
+      }
+    ],
+    "workbooks": [],
+    "videos": []
+  }
+]

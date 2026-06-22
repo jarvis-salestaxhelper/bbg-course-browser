@@ -1,0 +1,22 @@
+{
+  "course_name": "Courses by Journey",
+  "course_slug": "your-journey",
+  "space_id": 2217148,
+  "space_type": "posts",
+  "url": "https://www.brandbuildersgroupapp.com/c/your-journey/",
+  "posts": [
+    {
+      "index": 1,
+      "post_id": 26133509,
+      "title": "Our Phases",
+      "url": "https://www.brandbuildersgroupapp.com/c/your-journey/26133509"
+    },
+    {
+      "index": 2,
+      "post_id": 25936643,
+      "title": "Customer Journey Explainer",
+      "url": "https://www.brandbuildersgroupapp.com/c/your-journey/25936643"
+    }
+  ],
+  "errors": []
+}

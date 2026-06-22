@@ -1,0 +1,787 @@
+{
+  "course_name": "Captivating Content",
+  "course_slug": "captivating-content",
+  "course_id": 2202340,
+  "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/",
+  "sections": [],
+  "lessons": [
+    {
+      "index": 1,
+      "lesson_id": 2784708,
+      "section_id": 735823,
+      "title": "Captivating Content: Introduction & Overview",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735823/lessons/2784708",
+      "file": "01-captivating-content-introduction-overview.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/xqs43hkfgs",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 2,
+      "lesson_id": 2784709,
+      "section_id": 735824,
+      "title": "Clear Avatar & Central Message: Workbook Guided Training",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735824/lessons/2784709",
+      "file": "02-clear-avatar-central-message-workbook-guided-training.md",
+      "downloads": [
+        {
+          "name": "Phase 1 Branding Captivating Content Lesson 1 Clear Avatar and Central Message Workbook Guided Training.docx",
+          "url": "https://assets-v2.circle.so/tkd727ceap7gwu9gs9loe9f462gd",
+          "raw": {
+            "id": 116258365,
+            "created_at": "2025-11-13T21:28:02.000Z",
+            "filename": "Phase 1 Branding Captivating Content Lesson 1 Clear Avatar and Central Message Workbook Guided Training.docx",
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ1BHQlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e17ed5c34e5b2726640501bb7689551fd0fe45b5",
+            "url": "https://assets-v2.circle.so/tkd727ceap7gwu9gs9loe9f462gd",
+            "size": "28 KB"
+          }
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/vgi2cp95lr",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 3,
+      "lesson_id": 2784710,
+      "section_id": 735825,
+      "title": "Logical Structure: Workbook Guided Training",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735825/lessons/2784710",
+      "file": "03-logical-structure-workbook-guided-training.md",
+      "downloads": [
+        {
+          "name": "Transcript_Captivating Content_Logical Structure_Workbook Guided Training.docx",
+          "url": "https://assets-v2.circle.so/68n8590snjn6z12bes9hyeor9092",
+          "raw": {
+            "id": 116258866,
+            "created_at": "2025-11-13T21:30:23.000Z",
+            "filename": "Transcript_Captivating Content_Logical Structure_Workbook Guided Training.docx",
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ0RlQlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5bb1ece2621c2a31d31ddf69baf2433b5d7a265",
+            "url": "https://assets-v2.circle.so/68n8590snjn6z12bes9hyeor9092",
+            "size": "26.2 KB"
+          }
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/fge6rhclmb",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 4,
+      "lesson_id": 2784711,
+      "section_id": 735825,
+      "title": "Logical Structure Supplemental Training: Outlining Your Body of Work",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735825/lessons/2784711",
+      "file": "04-logical-structure-supplemental-training-outlining-your-body-.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/lresvawx4v",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 5,
+      "lesson_id": 2784712,
+      "section_id": 735825,
+      "title": "Logical Structure Supplemental Training: Modular Content Method",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735825/lessons/2784712",
+      "file": "05-logical-structure-supplemental-training-modular-content-meth.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/fsmhkmyfop",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 6,
+      "lesson_id": 2784713,
+      "section_id": 735825,
+      "title": "Logical Structure Supplemental Training: Creating And Polishing Your Pillar Points",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735825/lessons/2784713",
+      "file": "06-logical-structure-supplemental-training-creating-and-polishi.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/wl7hiju1ng",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 7,
+      "lesson_id": 2784714,
+      "section_id": 735825,
+      "title": "Logical Structure Supplemental Training: Polishing Your Content Using the Pillar Point Formulas",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735825/lessons/2784714",
+      "file": "07-logical-structure-supplemental-training-polishing-your-conte.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/hm5101inp7",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 8,
+      "lesson_id": 2784715,
+      "section_id": 735825,
+      "title": "Logical Structure Supplemental Training: The #1 Strategy for Memorizing a Speech",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735825/lessons/2784715",
+      "file": "08-logical-structure-supplemental-training-the-1-strategy-for-m.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/imtqc2koi3",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 9,
+      "lesson_id": 2784716,
+      "section_id": 735826,
+      "title": "Compelling Stories: Workbook Guided Training",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735826/lessons/2784716",
+      "file": "09-compelling-stories-workbook-guided-training.md",
+      "downloads": [
+        {
+          "name": "Transcript_Captivating Content_Compelling Stories_Workbook Guided Training.docx",
+          "url": "https://assets-v2.circle.so/n1ltzik07d0t9oqf4mjdxm4190vh",
+          "raw": {
+            "id": 116259174,
+            "created_at": "2025-11-13T21:32:02.000Z",
+            "filename": "Transcript_Captivating Content_Compelling Stories_Workbook Guided Training.docx",
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRFh1QlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--60026aa06b0f9981e1ee4bcf697c82ec58690709",
+            "url": "https://assets-v2.circle.so/n1ltzik07d0t9oqf4mjdxm4190vh",
+            "size": "22.4 KB"
+          }
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/mh1jod8otp",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 10,
+      "lesson_id": 2784717,
+      "section_id": 735826,
+      "title": "Compelling Stories Supplemental Training: Creating Compelling Stories",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735826/lessons/2784717",
+      "file": "10-compelling-stories-supplemental-training-creating-compelling.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/fr05a0p9x4",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 11,
+      "lesson_id": 2784718,
+      "section_id": 735827,
+      "title": "Thought Leadership Frameworks: Workbook Guided Training",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735827/lessons/2784718",
+      "file": "11-thought-leadership-frameworks-workbook-guided-training.md",
+      "downloads": [
+        {
+          "name": "Phase 1 Branding Captivating Content Lesson 4 Thought Leadership Frameworks Workbook Guided Training.docx",
+          "url": "https://assets-v2.circle.so/2luysdy3q1psy29jmubv2e4q1kd5",
+          "raw": {
+            "id": 116259244,
+            "created_at": "2025-11-13T21:32:21.000Z",
+            "filename": "Phase 1 Branding Captivating Content Lesson 4 Thought Leadership Frameworks Workbook Guided Training.docx",
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ3p4QlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba999357a11f920beedaf8c05a497a0d23cfcfb3",
+            "url": "https://assets-v2.circle.so/2luysdy3q1psy29jmubv2e4q1kd5",
+            "size": "37.7 KB"
+          }
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/5q224jsx9h",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 12,
+      "lesson_id": 2784719,
+      "section_id": 735827,
+      "title": "Thought Leadership Frameworks Supplemental Training: How to Create Original Thought Leadership Via Frameworks",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735827/lessons/2784719",
+      "file": "12-thought-leadership-frameworks-supplemental-training-how-to-c.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/lphlwyaafx",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 13,
+      "lesson_id": 2784720,
+      "section_id": 735827,
+      "title": "Thought Leadership Frameworks Supplemental Training: Creating Original IP and Thought Leadership Frameworks",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735827/lessons/2784720",
+      "file": "13-thought-leadership-frameworks-supplemental-training-creating.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/g75ug43t6t",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 14,
+      "lesson_id": 2784721,
+      "section_id": 735828,
+      "title": "Behavior Drivers: Workbook Guided Training",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735828/lessons/2784721",
+      "file": "14-behavior-drivers-workbook-guided-training.md",
+      "downloads": [
+        {
+          "name": "Phase 1 Branding Captivating Content Lesson 5 Behavior Drivers Workbook Guided Training.docx",
+          "url": "https://assets-v2.circle.so/s0844n6vludva4mjgqf94sb9vn9x",
+          "raw": {
+            "id": 116259290,
+            "created_at": "2025-11-13T21:32:41.000Z",
+            "filename": "Phase 1 Branding Captivating Content Lesson 5 Behavior Drivers Workbook Guided Training.docx",
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRW4wQlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0df1c63b5736d9abbd4a5ffee9dac81ae2f7efb8",
+            "url": "https://assets-v2.circle.so/s0844n6vludva4mjgqf94sb9vn9x",
+            "size": "32.8 KB"
+          }
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/58brok1l14",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 15,
+      "lesson_id": 2784722,
+      "section_id": 735828,
+      "title": "Behavior Drivers Supplemental Training: The Key Ideas That Drive Behavior and Exercises That Engage",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735828/lessons/2784722",
+      "file": "15-behavior-drivers-supplemental-training-the-key-ideas-that-dr.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/lycck0n214",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 16,
+      "lesson_id": 2784723,
+      "section_id": 735828,
+      "title": "Behavior Drivers Supplemental Training: Creating Behavior Drivers And Essential Exercises",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735828/lessons/2784723",
+      "file": "16-behavior-drivers-supplemental-training-creating-behavior-dri.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/81b4hr0y61",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 17,
+      "lesson_id": 2784724,
+      "section_id": 735829,
+      "title": "Irresistible Titles: Workbook Guided Training",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735829/lessons/2784724",
+      "file": "17-irresistible-titles-workbook-guided-training.md",
+      "downloads": [
+        {
+          "name": "Phase 1 Branding Captivating Content Lesson 6 Irresistible Titles.docx",
+          "url": "https://assets-v2.circle.so/rh05yfj7se4jmmk74pigu0u4280p",
+          "raw": {
+            "id": 116259341,
+            "created_at": "2025-11-13T21:33:02.000Z",
+            "filename": "Phase 1 Branding Captivating Content Lesson 6 Irresistible Titles.docx",
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmIzQlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--14f68c2a800d9c11e9b60f77e93fdd688e1c0325",
+            "url": "https://assets-v2.circle.so/rh05yfj7se4jmmk74pigu0u4280p",
+            "size": "32.7 KB"
+          }
+        }
+      ],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/2wrin5jn04",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 18,
+      "lesson_id": 2784725,
+      "section_id": 735830,
+      "title": "How to Cultivate a Bestselling Author's Mindset",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735830/lessons/2784725",
+      "file": "18-how-to-cultivate-a-bestselling-authors-mindset.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/585pkiw2tp",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 19,
+      "lesson_id": 2784727,
+      "section_id": 735830,
+      "title": "How to Go From a BPS to a Finished Manuscript",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735830/lessons/2784727",
+      "file": "19-how-to-go-from-a-bps-to-a-finished-manuscript.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/5ps8si0x52",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 20,
+      "lesson_id": 2784726,
+      "section_id": 735830,
+      "title": "What Should My First Course Be Based On?",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735830/lessons/2784726",
+      "file": "20-what-should-my-first-course-be-based-on.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/n1cl6zf9su",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 21,
+      "lesson_id": 2784728,
+      "section_id": 735830,
+      "title": "How Do You Keep Fresh Content Ideas Coming?",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735830/lessons/2784728",
+      "file": "21-how-do-you-keep-fresh-content-ideas-coming.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/7zsl5bvjk0",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 22,
+      "lesson_id": 2784729,
+      "section_id": 735830,
+      "title": "How to Use ChatGPT and Other Shortcuts to Write Articles",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735830/lessons/2784729",
+      "file": "22-how-to-use-chatgpt-and-other-shortcuts-to-write-articles.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/wlwae89uol",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 23,
+      "lesson_id": 2784730,
+      "section_id": 735831,
+      "title": "Event Hot Seat (Logical Structure)",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735831/lessons/2784730",
+      "file": "23-event-hot-seat-logical-structure.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/gwqzc337px",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 24,
+      "lesson_id": 2784731,
+      "section_id": 735831,
+      "title": "Event Hot Seat (Logical Structure_2)",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735831/lessons/2784731",
+      "file": "24-event-hot-seat-logical-structure_2.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/doq77jwdw9",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 25,
+      "lesson_id": 2784732,
+      "section_id": 735831,
+      "title": "Event Hot Seat (Compelling Stories)",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735831/lessons/2784732",
+      "file": "25-event-hot-seat-compelling-stories.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/ezdqs6jfz9",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 26,
+      "lesson_id": 2784733,
+      "section_id": 735831,
+      "title": "Event Hot Seat (Thought Leadership Frameworks)",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735831/lessons/2784733",
+      "file": "26-event-hot-seat-thought-leadership-frameworks.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/4oz9uwin5i",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 27,
+      "lesson_id": 2784734,
+      "section_id": 735831,
+      "title": "Event Hot Seat (Behavior Drivers)",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735831/lessons/2784734",
+      "file": "27-event-hot-seat-behavior-drivers.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/4dxtsiszbt",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 28,
+      "lesson_id": 2784735,
+      "section_id": 735831,
+      "title": "Event Hot Seat (Behavior Drivers_2)",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735831/lessons/2784735",
+      "file": "28-event-hot-seat-behavior-drivers_2.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/a2ocowgfnm",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 29,
+      "lesson_id": 2784736,
+      "section_id": 735831,
+      "title": "Event Hot Seat (Behavior Drivers_3)",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735831/lessons/2784736",
+      "file": "29-event-hot-seat-behavior-drivers_3.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/0zld13dnky",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 30,
+      "lesson_id": 2784737,
+      "section_id": 735831,
+      "title": "Event Hot Seat (Irresistible Titles)",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735831/lessons/2784737",
+      "file": "30-event-hot-seat-irresistible-titles.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/08tgv01o48",
+          "type": "wistia"
+        }
+      ],
+      "has_content": true
+    },
+    {
+      "index": 31,
+      "lesson_id": 3480705,
+      "section_id": 735833,
+      "title": "Captivating Content Resources",
+      "url": "https://www.brandbuildersgroupapp.com/c/captivating-content/sections/735833/lessons/3480705",
+      "file": "31-captivating-content-resources.md",
+      "downloads": [],
+      "videos": [],
+      "has_content": true
+    }
+  ],
+  "all_downloads": [
+    {
+      "name": "Phase 1 Branding Captivating Content Lesson 1 Clear Avatar and Central Message Workbook Guided Training.docx",
+      "url": "https://assets-v2.circle.so/tkd727ceap7gwu9gs9loe9f462gd",
+      "raw": {
+        "id": 116258365,
+        "created_at": "2025-11-13T21:28:02.000Z",
+        "filename": "Phase 1 Branding Captivating Content Lesson 1 Clear Avatar and Central Message Workbook Guided Training.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ1BHQlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e17ed5c34e5b2726640501bb7689551fd0fe45b5",
+        "url": "https://assets-v2.circle.so/tkd727ceap7gwu9gs9loe9f462gd",
+        "size": "28 KB"
+      }
+    },
+    {
+      "name": "Transcript_Captivating Content_Logical Structure_Workbook Guided Training.docx",
+      "url": "https://assets-v2.circle.so/68n8590snjn6z12bes9hyeor9092",
+      "raw": {
+        "id": 116258866,
+        "created_at": "2025-11-13T21:30:23.000Z",
+        "filename": "Transcript_Captivating Content_Logical Structure_Workbook Guided Training.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ0RlQlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5bb1ece2621c2a31d31ddf69baf2433b5d7a265",
+        "url": "https://assets-v2.circle.so/68n8590snjn6z12bes9hyeor9092",
+        "size": "26.2 KB"
+      }
+    },
+    {
+      "name": "Transcript_Captivating Content_Compelling Stories_Workbook Guided Training.docx",
+      "url": "https://assets-v2.circle.so/n1ltzik07d0t9oqf4mjdxm4190vh",
+      "raw": {
+        "id": 116259174,
+        "created_at": "2025-11-13T21:32:02.000Z",
+        "filename": "Transcript_Captivating Content_Compelling Stories_Workbook Guided Training.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRFh1QlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--60026aa06b0f9981e1ee4bcf697c82ec58690709",
+        "url": "https://assets-v2.circle.so/n1ltzik07d0t9oqf4mjdxm4190vh",
+        "size": "22.4 KB"
+      }
+    },
+    {
+      "name": "Phase 1 Branding Captivating Content Lesson 4 Thought Leadership Frameworks Workbook Guided Training.docx",
+      "url": "https://assets-v2.circle.so/2luysdy3q1psy29jmubv2e4q1kd5",
+      "raw": {
+        "id": 116259244,
+        "created_at": "2025-11-13T21:32:21.000Z",
+        "filename": "Phase 1 Branding Captivating Content Lesson 4 Thought Leadership Frameworks Workbook Guided Training.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ3p4QlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba999357a11f920beedaf8c05a497a0d23cfcfb3",
+        "url": "https://assets-v2.circle.so/2luysdy3q1psy29jmubv2e4q1kd5",
+        "size": "37.7 KB"
+      }
+    },
+    {
+      "name": "Phase 1 Branding Captivating Content Lesson 5 Behavior Drivers Workbook Guided Training.docx",
+      "url": "https://assets-v2.circle.so/s0844n6vludva4mjgqf94sb9vn9x",
+      "raw": {
+        "id": 116259290,
+        "created_at": "2025-11-13T21:32:41.000Z",
+        "filename": "Phase 1 Branding Captivating Content Lesson 5 Behavior Drivers Workbook Guided Training.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRW4wQlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0df1c63b5736d9abbd4a5ffee9dac81ae2f7efb8",
+        "url": "https://assets-v2.circle.so/s0844n6vludva4mjgqf94sb9vn9x",
+        "size": "32.8 KB"
+      }
+    },
+    {
+      "name": "Phase 1 Branding Captivating Content Lesson 6 Irresistible Titles.docx",
+      "url": "https://assets-v2.circle.so/rh05yfj7se4jmmk74pigu0u4280p",
+      "raw": {
+        "id": 116259341,
+        "created_at": "2025-11-13T21:33:02.000Z",
+        "filename": "Phase 1 Branding Captivating Content Lesson 6 Irresistible Titles.docx",
+        "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "signed_id": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSmIzQlFjPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--14f68c2a800d9c11e9b60f77e93fdd688e1c0325",
+        "url": "https://assets-v2.circle.so/rh05yfj7se4jmmk74pigu0u4280p",
+        "size": "32.7 KB"
+      }
+    }
+  ],
+  "all_videos": [
+    {
+      "src": "https://fast.wistia.net/embed/iframe/xqs43hkfgs",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/vgi2cp95lr",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/fge6rhclmb",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/lresvawx4v",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/fsmhkmyfop",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/wl7hiju1ng",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/hm5101inp7",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/imtqc2koi3",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/mh1jod8otp",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/fr05a0p9x4",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/5q224jsx9h",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/lphlwyaafx",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/g75ug43t6t",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/58brok1l14",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/lycck0n214",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/81b4hr0y61",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/2wrin5jn04",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/585pkiw2tp",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/5ps8si0x52",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/n1cl6zf9su",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/7zsl5bvjk0",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/wlwae89uol",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/gwqzc337px",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/doq77jwdw9",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/ezdqs6jfz9",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/4oz9uwin5i",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/4dxtsiszbt",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/a2ocowgfnm",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/0zld13dnky",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/08tgv01o48",
+      "type": "wistia"
+    }
+  ],
+  "errors": []
+}

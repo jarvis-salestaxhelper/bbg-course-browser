@@ -1,0 +1,217 @@
+{
+  "course_name": "New Pro Member Onboarding",
+  "course_slug": "new-pro-member-onboarding",
+  "course_id": 2202317,
+  "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/",
+  "sections": [],
+  "lessons": [
+    {
+      "index": 1,
+      "lesson_id": 3219833,
+      "section_id": 847390,
+      "title": "Welcome to Brand Builders Group!",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847390/lessons/3219833",
+      "file": "01-welcome-to-brand-builders-group.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 2,
+      "lesson_id": 3219893,
+      "section_id": 847392,
+      "title": "What is a Personal Brand?",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847392/lessons/3219893",
+      "file": "02-what-is-a-personal-brand.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/w7l2y1xcau",
+          "type": "wistia"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "lesson_id": 3219897,
+      "section_id": 847392,
+      "title": "BBG Member Journeys",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847392/lessons/3219897",
+      "file": "03-bbg-member-journeys.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 4,
+      "lesson_id": 3219898,
+      "section_id": 847392,
+      "title": "How to Complete Each Topic",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847392/lessons/3219898",
+      "file": "04-how-to-complete-each-topic.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 5,
+      "lesson_id": 3219902,
+      "section_id": 847392,
+      "title": "Your Client Repository",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847392/lessons/3219902",
+      "file": "05-your-client-repository.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/lt8g5b5w92",
+          "type": "wistia"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "lesson_id": 3219899,
+      "section_id": 847392,
+      "title": "Onboarding Cohorts",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847392/lessons/3219899",
+      "file": "06-onboarding-cohorts.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/vyurufcfc1",
+          "type": "wistia"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "lesson_id": 3219903,
+      "section_id": 847425,
+      "title": "Working with Your Strategist",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847425/lessons/3219903",
+      "file": "07-working-with-your-strategist.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/pfenqukz30",
+          "type": "wistia"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "lesson_id": 3219908,
+      "section_id": 847425,
+      "title": "BBG Events",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847425/lessons/3219908",
+      "file": "08-bbg-events.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 9,
+      "lesson_id": 3219910,
+      "section_id": 847425,
+      "title": "Virtual Trainings",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847425/lessons/3219910",
+      "file": "09-virtual-trainings.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 10,
+      "lesson_id": 3219918,
+      "section_id": 847425,
+      "title": "Courses",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847425/lessons/3219918",
+      "file": "10-courses.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 11,
+      "lesson_id": 3219912,
+      "section_id": 847425,
+      "title": "BBG Bots",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847425/lessons/3219912",
+      "file": "11-bbg-bots.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 12,
+      "lesson_id": 3219913,
+      "section_id": 847425,
+      "title": "Leveraging the Community",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847425/lessons/3219913",
+      "file": "12-leveraging-the-community.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 13,
+      "lesson_id": 3219926,
+      "section_id": 847425,
+      "title": "Annual Planning Calls",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847425/lessons/3219926",
+      "file": "13-annual-planning-calls.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/ij3kg6orlv",
+          "type": "wistia"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "lesson_id": 3219927,
+      "section_id": 847425,
+      "title": "How to Get Help",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847425/lessons/3219927",
+      "file": "14-how-to-get-help.md",
+      "downloads": [],
+      "videos": []
+    },
+    {
+      "index": 15,
+      "lesson_id": 3219930,
+      "section_id": 847394,
+      "title": "Your Next Steps",
+      "url": "https://www.brandbuildersgroupapp.com/c/new-pro-member-onboarding/sections/847394/lessons/3219930",
+      "file": "15-your-next-steps.md",
+      "downloads": [],
+      "videos": [
+        {
+          "src": "https://fast.wistia.net/embed/iframe/824czp54it",
+          "type": "wistia"
+        }
+      ]
+    }
+  ],
+  "all_downloads": [],
+  "all_videos": [
+    {
+      "src": "https://fast.wistia.net/embed/iframe/w7l2y1xcau",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/lt8g5b5w92",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/vyurufcfc1",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/pfenqukz30",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/ij3kg6orlv",
+      "type": "wistia"
+    },
+    {
+      "src": "https://fast.wistia.net/embed/iframe/824czp54it",
+      "type": "wistia"
+    }
+  ],
+  "errors": []
+}
