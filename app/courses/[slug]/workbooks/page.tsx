@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getAllCourses, getCourse } from "@/lib/courses";
+import { getAllCourses, getCourse, prettifyWorkbookName } from "@/lib/courses";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -36,11 +36,8 @@ export default async function WorkbooksPage({ params }: Props) {
 
       <div className="space-y-3 max-w-2xl">
         {course.workbooks.map((wb, i) => {
-          const prettyName = wb.filename
-            .replace(/\.docx$/, '')
-            .replace(/_[a-z0-9]{12,}$/, '')
-            .replace(/_/g, ' ')
-            .trim();
+          const prettyName = prettifyWorkbookName(wb.filename);
+          const extension = wb.filename.toLowerCase().endsWith(".pdf") ? "PDF" : "DOCX";
           return (
             <div key={i}
               className="flex items-center gap-4 p-4 rounded-xl"
@@ -58,7 +55,7 @@ export default async function WorkbooksPage({ params }: Props) {
                 </p>
               </div>
               <span className="text-xs px-2 py-1 rounded whitespace-nowrap" style={{ backgroundColor: '#1a2332', color: '#c9a84c' }}>
-                Available locally
+                {extension}
               </span>
             </div>
           );

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getAllCourses, getCourse } from "@/lib/courses";
+import { getAllCourses, getCourse, prettifyVideoName, prettifyWorkbookName } from "@/lib/courses";
 import LessonItem from "@/components/LessonItem";
 
 interface Props {
@@ -82,7 +82,7 @@ export default async function CoursePage({ params }: Props) {
                     className="p-3 rounded-lg"
                     style={{ backgroundColor: '#243044', border: '1px solid #2d3d54' }}>
                     <p className="text-xs leading-snug" style={{ color: '#94a3b8' }}>
-                      {wb.filename.replace(/\.docx$/, '').replace(/_[a-z0-9]{12,}$/, '').replace(/_/g, ' ')}
+                      {prettifyWorkbookName(wb.filename)}
                     </p>
                     <p className="text-xs mt-1" style={{ color: '#4a5568' }}>📁 Available locally</p>
                   </div>
@@ -112,7 +112,7 @@ export default async function CoursePage({ params }: Props) {
                     className="p-3 rounded-lg"
                     style={{ backgroundColor: '#243044', border: '1px solid #2d3d54' }}>
                     <p className="text-xs leading-snug" style={{ color: '#94a3b8' }}>
-                      {vid.filename.replace(/\.mp4$/, '').replace(/[-_]/g, ' ')}
+                      {prettifyVideoName(vid.filename)}
                     </p>
                     <p className="text-xs mt-1" style={{ color: '#4a5568' }}>🎬 Available locally</p>
                   </div>

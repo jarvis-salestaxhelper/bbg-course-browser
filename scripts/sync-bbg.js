@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* eslint-disable @typescript-eslint/no-require-imports */
 /**
  * sync-bbg.js
  * Syncs BBG course content from the local scraped folder into content/
@@ -35,7 +36,7 @@ const allEntries = fs.readdirSync(SOURCE_DIR);
 const courseSlugs = allEntries.filter(entry => {
   const full = path.join(SOURCE_DIR, entry);
   return fs.statSync(full).isDirectory();
-});
+}).sort();
 
 console.log(`Found ${courseSlugs.length} course directories`);
 
@@ -80,18 +81,23 @@ for (const slug of courseSlugs) {
     manifest = JSON.parse(fs.readFileSync(manifestSrc, 'utf-8'));
   }
 
-  // Count workbooks from downloads/
-  const downloadsDir = path.join(courseSource, 'downloads');
+  // Count workbooks from downloads/ and workbooks/ if both exist.
+  const workbookDirs = ['downloads', 'workbooks'].map(dir => path.join(courseSource, dir));
   let workbookFiles = [];
-  if (fs.existsSync(downloadsDir)) {
-    workbookFiles = fs.readdirSync(downloadsDir).filter(f => f.endsWith('.docx') || f.endsWith('.pdf'));
+  for (const workbookDir of workbookDirs) {
+    if (fs.existsSync(workbookDir)) {
+      workbookFiles.push(
+        ...fs.readdirSync(workbookDir).filter(f => /\.(docx|pdf)$/i.test(f))
+      );
+    }
   }
+  workbookFiles = [...new Set(workbookFiles)].sort();
 
   // Count videos from videos/
   const videosDir = path.join(courseSource, 'videos');
   let videoFiles = [];
   if (fs.existsSync(videosDir)) {
-    videoFiles = fs.readdirSync(videosDir).filter(f => f.endsWith('.mp4'));
+    videoFiles = fs.readdirSync(videosDir).filter(f => f.endsWith('.mp4')).sort();
   }
 
   const lessonCount = mdFiles.length;

@@ -55,9 +55,8 @@ export function getSummaryContent(): string {
 }
 
 export function prettifyWorkbookName(filename: string): string {
-  // Remove hash suffix like _abc123.docx
   return filename
-    .replace(/\.docx$/, '')
+    .replace(/\.(docx|pdf)$/i, '')
     .replace(/_[a-z0-9]{12,}$/, '') // Remove hash suffix
     .replace(/_/g, ' ')
     .replace(/\s+/g, ' ')
@@ -66,7 +65,9 @@ export function prettifyWorkbookName(filename: string): string {
 
 export function prettifyVideoName(filename: string): string {
   return filename
-    .replace(/\.mp4$/, '')
+    .replace(/\.mp4$/i, '')
+    .replace(/__[a-z0-9]+$/i, '')
     .replace(/[-_]/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim();
 }
